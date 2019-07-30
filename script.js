@@ -26,6 +26,8 @@ function startTime()
   var m = today.getMinutes();
   d=checkTime(d);
   mo=checkTime(mo);
+  y=checkTime(y);
+  h=checkTime(h);
   m=checkTime(m);
   document.getElementById('clock').innerHTML=d+"/"+mo+"/"+y+"    "+h+":"+m;
   t=setTimeout('startTime()',60000);
