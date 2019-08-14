@@ -1,5 +1,7 @@
 //back to top functions
-window.onscroll = function() {scrollFunction()};
+window.onscroll = function () {
+  scrollFunction()
+};
 //if scroll show back to scroll
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
@@ -16,27 +18,28 @@ function topFunction() {
 
 //register time
 function startTime() {
-  var today=new Date();
-  today.toLocaleString('fr-FR', { timeZone: 'Europe/Paris' });
+  var today = new Date();
+  today.toLocaleString('fr-FR', {
+    timeZone: 'Europe/Paris'
+  });
   var d = today.getDate();
   var mo = today.getMonth();
   var mo = mo + 1;
   var y = today.getFullYear();
   var h = today.getHours();
   var m = today.getMinutes();
-  d=checkTime(d);
-  mo=checkTime(mo);
-  y=checkTime(y);
-  h=checkTime(h);
-  m=checkTime(m);
-  document.getElementById('clock').innerHTML=d+"/"+mo+"/"+y+"    "+h+":"+m;
-  t=setTimeout('startTime()',60000);
+  d = checkTime(d);
+  mo = checkTime(mo);
+  y = checkTime(y);
+  h = checkTime(h);
+  m = checkTime(m);
+  document.getElementById('clock').innerHTML = d + "/" + mo + "/" + y + "    " + h + ":" + m;
+  t = setTimeout('startTime()', 60000);
 }
 // add a zero in front of numbers<10
 function checkTime(i) {
-  if (i<10)
-  {
-    i="0" + i;
+  if (i < 10) {
+    i = "0" + i;
   }
   return i;
 }
