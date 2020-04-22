@@ -1,174 +1,164 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport">
-    <meta name="author" content="efydd">
-    <title>startpage</title>
-    <meta name="format-detection" content="telephone=no">
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
-  </head>
+       <head>
+              <meta charset="utf-8">
+              <meta name="viewport">
+              <meta name="author" content="efydd">
+              <title>startpage</title>
+              <meta name="format-detection" content="telephone=no">
+              <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+              <link rel="stylesheet" href="style.css">
+              <script src="script.js"></script>
+       </head>
 
-  <body>
+       <body>
+              <div class="container is-fluid has-background-dark">
 
-    <button onclick="topFunction()" <a class="nav-link h3" id="backtotop" href="#" data-toggle="tooltip"
-      data-placement="bottom" title="Back to top page">up</a></button>
-    <br>
-    <div class="text-center mx-5">
-      <div id="clock"></div>
-      <form method="get" action="https://duckduckgo.com/?">
-        <div class="form-group">
-          <input name='q' type='text' class="form-control" placeholder='search duckduckgo' />
-        </div>
-      </form>
-    </div>
-    <br>
+                     <button class="button button-backtotop">
+                            <a href="#" title="Retour en Haut">
+                                   <spanclass="icon is-large has-text-primary">UP</spanclass=>
+                            </a>
+                     </button>
 
-    <div class="row content mx-5">
-      <div class="col-3"><a href="https://www.journalduhacker.net/recent"
-          class="btn btn-block btn-secondary">journal-du-hacker</a></div>
-      <div class="col-3"><a href="https://www.scantrad-union.com/" class="btn btn-block btn-danger">scantrad-union</a>
-      </div>
-      <div class="col-3"><a href="https://9gag.com/" class="btn btn-block btn-dark">9gag</a>
-      </div>
-      <div class="col-3"><a href="webdev.html" class="btn btn-block btn-link">webdev</a>
-      </div>
-    </div>
-    <hr>
-    <div class="row content mx-5">
-      <div class="col-3"><a href="https://gitlab.com/users/franckf/projects"
-          class="btn btn-block btn-warning">gitlab</a></div>
-      <div class="col-3"><a href="https://www.youtube.com/results?search_query=live+music"
-          class="btn btn-block btn-info">music</a></div>
-      <div class="col-3"><a href="https://www.meteorama.fr/86000.html?v=heure-par-heure"
-          class="btn btn-block btn-success">weather</a></div>
-      <div class="col-3"><a href="http://127.0.0.1:9090" class="btn btn-block btn-primary">cockpit</a>
-      </div>
-    </div>
-    <hr>
+                     <section class="hero is-small">
+                            <div class="hero-body">
+                                   <div class="container has-text-centered">
+                                          <div id="clock" class="is-size-1"></div>
+                                          <div class="field">
+                                                 <form method="get" action="https://duckduckgo.com/?">
+                                                        <div class="control">
+                                                               <input name="q" class="input" type="text"
+                                                                      placeholder="search duckduckgo">
+                                                        </div>
+                                                 </form>
+                                          </div>
+                                   </div>
+                            </div>
+                     </section>
+                     <hr>
 
-    <div class="container">
-      <div class="row">
+                     <div class="columns">
+                            <div class="column">
+                                   <a href="https://www.journalduhacker.net/recent"
+                                          class="button is-secondary is-fullwidth">journal-du-hacker</a>
+                            </div>
+                            <div class="column">
+                                   <a href="https://www.scantrad-union.com/"
+                                          class="button is-danger is-fullwidth">scantrad-union</a>
+                            </div>
+                            <div class="column">
+                                   <a href="https://9gag.com/" class="button is-dark is-fullwidth">9gag</a>
+                            </div>
+                            <div class="column">
+                                   <a href="webdev.html" class="button is-link is-fullwidth">webdev</a>
+                            </div>
+                     </div>
+                     <hr>
 
-        <div class="col">
-          <div class="list-group list-group-flush">
-            <h4>to-see</h4>
-            <br>
-            <a href="https://jestjs.io/docs/en/getting-started.html"
-              class="list-group-item list-group-item-action list-group-item-info">jestjs</a>
-            <a href="https://nodejs.org/en/docs/guides/debugging-getting-started/"
-              class="list-group-item list-group-item-action list-group-item-info">debugger</a>
-            <a href="http://www.netlify.com"
-              class="list-group-item list-group-item-action list-group-item-info">netlify</a>
-            <a href="https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/"
-              class="list-group-item list-group-item-action list-group-item-info">streams</a>
-            <a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction"
-              class="list-group-item list-group-item-action list-group-item-info">jsdesignpatterns</a>
-            <a href="https://nextjs.org/"
-              class="list-group-item list-group-item-action list-group-item-info">nextjs</a>
-            <a href="https://gatsbyjs.org/"
-              class="list-group-item list-group-item-action list-group-item-info">gatsbyjs</a>
-            <a href="https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke"
-              class="list-group-item list-group-item-action list-group-item-info">visualized-promises-async</a>
-            <br>
-            <h4>distraction</h4>
-            <br>
-            <a href="https://www.xkcd.com"
-              class="list-group-item list-group-item-action list-group-item-success">xkcd</a>
-            <a href="https://clientsfromhell.net"
-              class="list-group-item list-group-item-action list-group-item-success">clients-from-hell</a>
-            <a href="https://www.brothers-brick.com"
-              class="list-group-item list-group-item-action list-group-item-success">brothers-brick</a>
-            <a href="https://www.viedemerde.fr"
-              class="list-group-item list-group-item-action list-group-item-success">vdm</a>
-            <a href="https://www.commitstrip.com/fr/?"
-              class="list-group-item list-group-item-action list-group-item-success">commitstrip</a>
-            <br>
-          </div>
-        </div>
-        <hr>
+                     <div class="columns">
+                            <div class="column">
+                                   <a href="https://gitlab.com/users/franckf/projects"
+                                          class="button is-warning is-fullwidth">gitlab</a>
+                            </div>
+                            <div class="column">
+                                   <a href="https://www.youtube.com/results?search_query=live+music"
+                                          class="button is-info is-fullwidth">music</a>
+                            </div>
+                            <div class="column">
+                                   <a href="https://www.meteorama.fr/86000.html?v=heure-par-heure"
+                                          class="button is-success is-fullwidth">weather</a>
+                            </div>
+                            <div class="column">
+                                   <a href="http://127.0.0.1:9090" class="button is-primary is-fullwidth">cockpit</a>
+                            </div>
+                     </div>
+                     <hr>
 
-        <div class="col">
-          <div class="list-group list-group-flush">
-            <h4>youtube</h4>
-            <br>
-            <a href="https://www.youtube.com/channel/UCDKPGD9T00eS_l--D_DRTUQ/videos"
-              class="list-group-item list-group-item-action list-group-item-danger">linuxtricks</a>
-            <a href="https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ/videos"
-              class="list-group-item list-group-item-action list-group-item-danger">level1techs</a>
-            <a href="https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos"
-              class="list-group-item list-group-item-action list-group-item-danger">distrotube</a>
-            <a href="https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ/videos"
-              class="list-group-item list-group-item-action list-group-item-danger">grafikart</a>
-            <a href="https://www.youtube.com/user/TechGuyWeb/videos"
-              class="list-group-item list-group-item-action list-group-item-danger">traversy</a>
-            <br>
-            <h4>distraction</h4>
-            <br>
-            <a href="https://scantrad.fr"
-              class="list-group-item list-group-item-action list-group-item-success">scantrad</a>
-            <a href="https://lel.koneko-scantrad.fr"
-              class="list-group-item list-group-item-action list-group-item-success">koneko-scantrad</a>
-            <a href="http://ajianoscantrad.fr"
-              class="list-group-item list-group-item-action list-group-item-success">ajia-no-scantrad</a>
-            <a href="https://www.scan-manga.com"
-              class="list-group-item list-group-item-action list-group-item-success">scan-manga</a>
-            <a href="https://boards.4channel.org/g/catalog"
-              class="list-group-item list-group-item-action list-group-item-info">g/technology</a>
-            <a href="https://www.reddit.com/r/ProgrammerHumor"
-              class="list-group-item list-group-item-action list-group-item-success">r/ProgrammerHumor</a>
-            <a href="https://www.reddit.com/r/linuxmasterrace"
-              class="list-group-item list-group-item-action list-group-item-success">r/linuxmasterrace</a>
-            <a href="https://cyrille-borne.com"
-              class="list-group-item list-group-item-action list-group-item-success">cyrille-borne</a>
-            <br>
-          </div>
-        </div>
-        <hr>
+                     <div class="content has-text-justified">
 
-        <div class="col">
-          <div class="list-group list-group-flush">
-            <h4>podcast</h4>
-            <br>
-            <a href="https://www.nolimitsecu.fr"
-              class="list-group-item list-group-item-action list-group-item-light">no-limit-secu</a>
-            <a href="https://www.comptoirsecu.fr"
-              class="list-group-item list-group-item-action list-group-item-light">comptoir-secu</a>
-            <a href="https://cpu.dascritch.net/"
-              class="list-group-item list-group-item-action list-group-item-light">cpu</a>
-            <a href="https://frenchspin.fr"
-              class="list-group-item list-group-item-action list-group-item-light">frenchspin</a>
-            <a href="https://artisandeveloppeur.fr/blog/"
-              class="list-group-item list-group-item-action list-group-item-light">artisandeveloppeur</a>
-            <br>
-            <h4>tech</h4>
-            <br>
-            <a href="https://www.minimachines.net"
-              class="list-group-item list-group-item-action list-group-item-info">mini-machines</a>
-            <a href="http://www.tuxmachines.org"
-              class="list-group-item list-group-item-action list-group-item-info">tux-machines</a>
-            <a href="https://www.cert.ssi.gouv.fr"
-              class="list-group-item list-group-item-action list-group-item-info">cert-fr</a>
-            <a href="https://flathub.org/apps/collection/recently-updated"
-              class="list-group-item list-group-item-action list-group-item-info">flathub</a>
-            <a href="https://news.ycombinator.com/newest"
-              class="list-group-item list-group-item-action list-group-item-info">hacker-news</a>
-            <a href="https://fedoramagazine.org"
-              class="list-group-item list-group-item-action list-group-item-info">fedora-magazine</a>
-            <a href="https://blog.centos.org"
-              class="list-group-item list-group-item-action list-group-item-info">centos</a>
-            <a href="https://developers.redhat.com/blog/"
-              class="list-group-item list-group-item-action list-group-item-info">redhat-dev</a>
-            <br>
-          </div>
-        </div>
-        <hr>
+                            <div class="columns">
+                                   <div class="column">
+                                          <h4 class="subtitle has-text-light">to-see</h4>
+                                          <li> <a href="https://jestjs.io/docs/en/getting-started.html"
+                                                        class="">jestjs</a></li>
+                                          <li><a href="https://nodejs.org/en/docs/guides/debugging-getting-started/"
+                                                        class="">debugger</a></li>
+                                          <li><a href="http://www.netlify.com" class="">netlify</a></li>
+                                          <li><a href="https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/"
+                                                        class="">streams</a></li>
+                                          <li><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction"
+                                                        class="">jsdesignpatterns</a></li>
+                                          <li><a href="https://nextjs.org/" class="">nextjs</a></li>
+                                          <li><a href="https://gatsbyjs.org/" class="">gatsbyjs</a></li>
+                                          <li><a href="https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke"
+                                                        class="">visualized-promises-async</a></li>
+                                          <hr>
 
-      </div>
-    </div>
-  </body>
+                                          <h4 class="subtitle has-text-light">distraction</h4>
+                                          <li><a href="https://www.xkcd.com" class="">xkcd</a></li>
+                                          <li><a href="https://clientsfromhell.net" class="">clients-from-hell</a></li>
+                                          <li><a href="https://www.brothers-brick.com" class="">brothers-brick</a></li>
+                                          <li><a href="https://www.viedemerde.fr" class="">vdm</a></li>
+                                          <li><a href="https://www.commitstrip.com/fr/?" class="">commitstrip</a></li>
+                                          <hr>
+                                   </div>
+
+                                   <div class="column">
+                                          <h4 class="subtitle has-text-light">youtube</h4>
+                                          <li> <a href="https://www.youtube.com/channel/UCDKPGD9T00eS_l--D_DRTUQ/videos"
+                                                        class="">linuxtricks</a></li>
+                                          <li><a href="https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ/videos"
+                                                        class="">level1techs</a></li>
+                                          <li><a href="https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos"
+                                                        class="">distrotube</a></li>
+                                          <li><a href="https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ/videos"
+                                                        class="">grafikart</a></li>
+                                          <li><a href="https://www.youtube.com/user/TechGuyWeb/videos"
+                                                        class="">traversy</a></li>
+                                          <hr>
+
+                                          <h4 class="subtitle has-text-light">distraction</h4>
+                                          <li><a href="https://scantrad.fr" class="">scantrad</a></li>
+                                          <li><a href="https://lel.koneko-scantrad.fr" class="">koneko-scantrad</a></li>
+                                          <li><a href="http://ajianoscantrad.fr" class="">ajia-no-scantrad</a></li>
+                                          <li><a href="https://www.scan-manga.com" class="">scan-manga</a></li>
+                                          <li><a href="https://boards.4channel.org/g/catalog" class="">g/technology</a>
+                                          </li>
+                                          <li><a href="https://www.reddit.com/r/ProgrammerHumor"
+                                                        class="">r/ProgrammerHumor</a></li>
+                                          <li><a href="https://www.reddit.com/r/linuxmasterrace"
+                                                        class="">r/linuxmasterrace</a></li>
+                                          <li><a href="https://cyrille-borne.com" class="">cyrille-borne</a></li>
+                                          <hr>
+                                   </div>
+
+                                   <div class="column">
+                                          <h4 class="subtitle has-text-light">podcast</h4>
+                                          <li><a href="https://www.nolimitsecu.fr" class="">no-limit-secu</a></li>
+                                          <li><a href="https://www.comptoirsecu.fr" class="">comptoir-secu</a></li>
+                                          <li><a href="https://cpu.dascritch.net/" class="">cpu</a></li>
+                                          <li><a href="https://frenchspin.fr" class="">frenchspin</a></li>
+                                          <li><a href="https://artisandeveloppeur.fr/blog/"
+                                                        class="">artisandeveloppeur</a></li>
+                                          <hr>
+
+                                          <h4 class="subtitle has-text-light">tech</h4>
+                                          <li><a href="https://www.minimachines.net" class="">mini-machines</a></li>
+                                          <li><a href="http://www.tuxmachines.org" class="">tux-machines</a></li>
+                                          <li><a href="https://www.cert.ssi.gouv.fr" class="">cert-fr</a></li>
+                                          <li><a href="https://flathub.org/apps/collection/recently-updated"
+                                                        class="">flathub</a></li>
+                                          <li><a href="https://news.ycombinator.com/newest" class="">hacker-news</a>
+                                          </li>
+                                          <li><a href="https://fedoramagazine.org" class="">fedora-magazine</a></li>
+                                          <li><a href="https://blog.centos.org" class="">centos</a></li>
+                                          <li><a href="https://developers.redhat.com/blog/" class="">redhat-dev</a></li>
+                                          <hr>
+                                   </div>
+                            </div>
+                     </div>
+              </div>
+       </body>
 
 </html>

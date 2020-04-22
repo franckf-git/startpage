@@ -1,19 +1,12 @@
-//back to top functions
-window.onscroll = function () {
-  scrollFunction()
-};
-//if scroll show back to scroll
-function scrollFunction() {
+/* Boutton retour en haut apparait au scroll */
+window.onscroll = () => {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    document.getElementById("backtotop").style.display = "block";
+    document.querySelector('.button-backtotop')
+      .style.display = 'block'
   } else {
-    document.getElementById("backtotop").style.display = "none";
+    document.querySelector('.button-backtotop')
+      .style.display = 'none'
   }
-}
-//return to top
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
 }
 
 //register time
