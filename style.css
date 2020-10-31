@@ -1,12 +1,12 @@
 @import "./bulma.min.css";
 
 body{
-  font-family: 'Inconsolata Regular', sans-serif;
+  font-family: 'FiraCode Regular', sans-serif;
 }
 
 @font-face {
   font-family: "mono";
-  src: url('Inconsolata-Regular.ttf') format("truetype");
+  src: url('FiraCode-Regular.ttf') format("truetype");
 }
 
 * {
