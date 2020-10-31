@@ -1,5 +1,9 @@
 @import "./bulma.min.css";
 
+body{
+  font-family: 'Inconsolata Regular', sans-serif;
+}
+
 @font-face {
   font-family: "mono";
   src: url('Inconsolata-Regular.ttf') format("truetype");
