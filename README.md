@@ -1,11 +1,11 @@
 ---
 
-* [liveserver](http://127.0.0.1:5500/)
-* [gitlab](https://gitlab.com/users/franckf/projects)
-* [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
-* [scantrad-union](https://www.scantrad-union.com/)
-* [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
-* [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
+- [liveserver](http://127.0.0.1:5500/)
+- [gitlab](https://gitlab.com/users/franckf/projects)
+- [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
+- [scantrad-union](https://www.scantrad-union.com/)
+- [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
+- [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
 
 ---
 
