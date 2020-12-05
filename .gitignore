@@ -1,4 +1,5 @@
-administration.html
-work.html
-storage.html
-tor.html
+/_book/
+/node_modules/
+/book.pdf
+/book.mobi
+/book.epub
