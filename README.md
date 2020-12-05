@@ -1,4 +1,10 @@
 
+<form method="get" action="https://duckduckgo.com/?">
+<div class="control">
+<input name="q" class="input" type="text" placeholder="search duckduckgo">
+</div>
+</form>
+
 - [liveserver](http://127.0.0.1:5500/)
 - [gitlab](https://gitlab.com/users/franckf/projects)
 - [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
