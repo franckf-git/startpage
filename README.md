@@ -6,10 +6,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>startpage</title>
         <link rel="stylesheet" href="style.css">
+        <script>
+window.onload = () => {
+  document.getElementById('clock').innerHTML = new Date()
+}
+        </script>
     </head>
 
     <body>
         <div class="container is-fluid has-background-dark">
+        <div id="clock" class="is-size-1"></div>
 
 <form method="get" action="https://duckduckgo.com/?">
 <div class="control">
