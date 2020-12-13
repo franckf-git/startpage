@@ -25,13 +25,21 @@
 
 <body>
 <div class="container is-fluid has-background-dark">
-<div id="clock" class="is-size-1"></div>
 
+<section class="hero is-small">
+<div class="hero-body">
+<div class="container has-text-centered">
+<div id="clock" class="is-size-1"></div>
 <form method="get" action="https://duckduckgo.com/?">
 <div class="control">
 <input name="q" class="input" type="text" placeholder="search duckduckgo">
 </div>
 </form>
+</div>
+</div>
+</div>
+</section>
+<hr>
 
 ## top
 
