@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<head>
+<head class="has-background-dark">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>startpage</title>
@@ -24,7 +24,7 @@
 </head>
 
 <body>
-<div class="container is-fluid has-background-dark">
+<div class="container is-fluid">
 
 <section class="hero is-small">
 <div class="hero-body">
