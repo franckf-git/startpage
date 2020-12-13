@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" class="has-background-dark">
 
-<head class="has-background-dark">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>startpage</title>
@@ -29,7 +29,7 @@
 <section class="hero is-small">
 <div class="hero-body">
 <div class="container has-text-centered">
-<div id="clock" class="is-size-1"></div>
+<div id="clock" class="is-size-1 has-text-light"></div>
 <form method="get" action="https://duckduckgo.com/?">
 <div class="control">
 <input name="q" class="input" type="text" placeholder="search duckduckgo">
