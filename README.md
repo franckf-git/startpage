@@ -78,6 +78,9 @@ STARTCOLUMN
 * [codeimg](https://codeimg.io/)
 * [nginx-configurator](https://www.digitalocean.com/community/tools/nginx)
 
+ENDCOLUMN
+STARTCOLUMN
+
 ## platforms
 
 * [codeur](https://www.codeur.com/)
@@ -85,8 +88,6 @@ STARTCOLUMN
 * [freelance](https://www.freelance-info.fr/missions.php)
 * [talent](https://www.talent.io/)
 * [freelancerepublik](https://www.freelancerepublik.com/freelance)
-
-ENDCOLUMN
 
 ## data-generator
 
@@ -108,6 +109,9 @@ ENDCOLUMN
 * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
 * [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
 * [cyrille-borne](https://cyrille-borne.com)
+
+ENDCOLUMN
+STARTCOLUMN
 
 ## katas
 
@@ -142,6 +146,9 @@ ENDCOLUMN
 * [centos](https://blog.centos.org)
 * [redhat-dev](https://developers.redhat.com/blog/)
 * [hacker-news](https://news.ycombinator.com/newest)
+
+ENDCOLUMN
+STARTCOLUMN
 
 ## veille
 
@@ -178,6 +185,9 @@ ENDCOLUMN
 * [grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ/videos)
 * [traversy](https://www.youtube.com/user/TechGuyWeb/videos)
 
+ENDCOLUMN
+STARTCOLUMN
+
 ## twitch
 
 * [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
@@ -202,6 +212,8 @@ ENDCOLUMN
 * [picsum](https://picsum.photos/)
 * [pexels](https://www.pexels.com/)
 * [unsplash](https://unsplash.com/)
+
+ENDCOLUMN
 
 </div>
 </div>
