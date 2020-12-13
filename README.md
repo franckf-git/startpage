@@ -40,6 +40,8 @@
 </section>
 <hr>
 
+<div class="columns">
+
 ## top
 
 * [liveserver](http://127.0.0.1:5500/)
@@ -197,6 +199,7 @@
 * [pexels](https://www.pexels.com/)
 * [unsplash](https://unsplash.com/)
 
+</div>
 </div>
 </body>
 </html>
