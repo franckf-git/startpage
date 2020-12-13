@@ -42,6 +42,8 @@
 
 <div class="columns">
 
+STARTCOLUMN
+
 ## top
 
 * [liveserver](http://127.0.0.1:5500/)
@@ -83,6 +85,8 @@
 * [freelance](https://www.freelance-info.fr/missions.php)
 * [talent](https://www.talent.io/)
 * [freelancerepublik](https://www.freelancerepublik.com/freelance)
+
+ENDCOLUMN
 
 ## data-generator
 
