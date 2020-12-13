@@ -7,9 +7,19 @@
 <title>startpage</title>
 <link rel="stylesheet" href="style.css">
 <script>
-window.onload = () => {
-    document.getElementById('clock').innerHTML = new Date()
-}
+  const startTime = () => {
+      let today = new Date();
+      today.toLocaleString('fr-FR', { timeZone: 'Europe/Paris' })
+      let d = today.getDate()
+      let mo = today.getMonth() + 1
+      let y = today.getFullYear()
+      let h = today.getHours()
+      let m = today.getMinutes()
+      document.getElementById('clock').innerHTML = `${d}/${mo}/${y} ${h}:${m}`
+      t = setTimeout('startTime()', 60000)
+  }
+
+  window.onload = () => startTime()
 </script>
 </head>
 
