@@ -57,6 +57,17 @@ STARTCOLUMN
 
 ## todo
 
+* [https://blog.jbriault.fr/security-nginx/](secure-nginx)
+* [https://medium.com/@vincent.bocquet/comprendre-lop%C3%A9rateur-this-en-javascript-41f8630141d4](js-this)
+* [https://medium.com/@alexandre.cibot/parlons-un-peu-javascript-e10fb31029f5](js-ref-hoisting)
+* [https://www.jesuisundev.com/comprendre-javascript-en-5-minutes/](js-5min)
+* [https://medium.com/faun/using-podman-with-docker-compose-files-b606f964b65](podman-compose)
+* [https://www.redhat.com/sysadmin/compose-podman-pods](rh-podman-pods)
+* [https://fedoramagazine.org/podman-pods-fedora-containers/](fedora-podman-pods)
+* [https://www.kaliop.com/fr/petit-guide-des-bons-outils-du-testeur/](outils-tests)
+* [https://www.kaliop.com/fr/tests-automatiques-vs-tests-manuels-les-cles-d-une-recette-efficace/](tests-manuels-vs-auto)
+* [https://www.kaliop.com/fr/retour-dexperience-le-monitoring-dune-application-mobile/](monitoring-app-mobile)
+* [https://medium.com/just-tech-it-now/les-sympt%C3%B4mes-de-lover-engineering-78ebd963a81](overengineering)
 * [ddg](https://eraser.heidi.ie/duckduckgo-tips-tricks/)
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
 * [ramda-functional](https://ramdajs.com/docs/)
