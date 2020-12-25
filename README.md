@@ -67,7 +67,6 @@ STARTCOLUMN
 * [outils-tests](https://www.kaliop.com/fr/petit-guide-des-bons-outils-du-testeur/)
 * [tests-manuels-vs-auto](https://www.kaliop.com/fr/tests-automatiques-vs-tests-manuels-les-cles-d-une-recette-efficace/)
 * [monitoring-app-mobile](https://www.kaliop.com/fr/retour-dexperience-le-monitoring-dune-application-mobile/)
-* [overengineering](https://medium.com/just-tech-it-now/les-sympt%C3%B4mes-de-lover-engineering-78ebd963a81)
 * [ddg](https://eraser.heidi.ie/duckduckgo-tips-tricks/)
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
 * [ramda-functional](https://ramdajs.com/docs/)
