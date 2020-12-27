@@ -14,19 +14,17 @@ STARTCOLUMN
 
 ## todo
 
-* [secure-nginx](https://blog.jbriault.fr/security-nginx/)
 * [js-this](https://medium.com/@vincent.bocquet/comprendre-lop%C3%A9rateur-this-en-javascript-41f8630141d4)
-* [js-ref-hoisting](https://medium.com/@alexandre.cibot/parlons-un-peu-javascript-e10fb31029f5)
 * [podman-compose](https://medium.com/faun/using-podman-with-docker-compose-files-b606f964b65)
 * [rh-podman-pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 * [fedora-podman-pods](https://fedoramagazine.org/podman-pods-fedora-containers/)
 * [outils-tests](https://www.kaliop.com/fr/petit-guide-des-bons-outils-du-testeur/)
 * [tests-manuels-vs-auto](https://www.kaliop.com/fr/tests-automatiques-vs-tests-manuels-les-cles-d-une-recette-efficace/)
-* [monitoring-app-mobile](https://www.kaliop.com/fr/retour-dexperience-le-monitoring-dune-application-mobile/)
 * [ddg](https://eraser.heidi.ie/duckduckgo-tips-tricks/)
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
 * [ramda-functional](https://ramdajs.com/docs/)
 * [Gassets](https://github.com/Grafikart/Grafikart.fr/blob/master/assets/app.js)
+* [copr-for-unclutter](https://docs.fedoraproject.org/fr/quick-docs/publish-rpm-on-copr/)
 * [datefns](https://date-fns.org/)
 * [dayjs](https://day.js.org/en/)
 * [comparaison](https://fr.wikipedia.org/wiki/Algorithme_de_tri#Comparaison_des_algorithmes)
