@@ -60,7 +60,6 @@ STARTCOLUMN
 * [secure-nginx](https://blog.jbriault.fr/security-nginx/)
 * [js-this](https://medium.com/@vincent.bocquet/comprendre-lop%C3%A9rateur-this-en-javascript-41f8630141d4)
 * [js-ref-hoisting](https://medium.com/@alexandre.cibot/parlons-un-peu-javascript-e10fb31029f5)
-* [js-5min](https://www.jesuisundev.com/comprendre-javascript-en-5-minutes/)
 * [podman-compose](https://medium.com/faun/using-podman-with-docker-compose-files-b606f964b65)
 * [rh-podman-pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 * [fedora-podman-pods](https://fedoramagazine.org/podman-pods-fedora-containers/)
