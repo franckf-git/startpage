@@ -14,7 +14,6 @@ STARTCOLUMN
 
 ## todo
 
-* [js-this](https://medium.com/@vincent.bocquet/comprendre-lop%C3%A9rateur-this-en-javascript-41f8630141d4)
 * [podman-compose](https://medium.com/faun/using-podman-with-docker-compose-files-b606f964b65)
 * [rh-podman-pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 * [fedora-podman-pods](https://fedoramagazine.org/podman-pods-fedora-containers/)
