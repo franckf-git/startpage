@@ -14,7 +14,6 @@ STARTCOLUMN
 
 ## todo
 
-* [podman-compose](https://medium.com/faun/using-podman-with-docker-compose-files-b606f964b65)
 * [rh-podman-pods](https://www.redhat.com/sysadmin/compose-podman-pods)
 * [fedora-podman-pods](https://fedoramagazine.org/podman-pods-fedora-containers/)
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
