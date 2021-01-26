@@ -21,8 +21,6 @@ STARTCOLUMN
 * [Gassets](https://github.com/Grafikart/Grafikart.fr/blob/master/assets/app.js)
 * [datefns](https://date-fns.org/)
 * [dayjs](https://day.js.org/en/)
-* [comparaison](https://fr.wikipedia.org/wiki/Algorithme_de_tri#Comparaison_des_algorithmes)
-* [js-exercises](https://github.com/trekhleb/javascript-algorithms)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
 
