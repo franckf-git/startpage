@@ -8,15 +8,10 @@
 <link rel="stylesheet" href="style.css">
 <script>
   const startTime = () => {
-      let today = new Date();
-      today.toLocaleString('fr-FR', { timeZone: 'Europe/Paris' })
-      let d = today.getDate()
-      let mo = today.getMonth() + 1
-      let y = today.getFullYear()
-      let h = today.getHours()
-      let m = today.getMinutes()
-      document.getElementById('clock').innerHTML = `${d}/${mo}/${y} ${h}:${m}`
-      t = setTimeout('startTime()', 60000)
+      const date = new Date().toLocaleDateString()
+      const time = new Date().toLocaleTimeString()
+      document.getElementById('clock').innerHTML = `${date} ${time}`
+      t = setTimeout('startTime()', 10000)
   }
 
   window.onload = () => startTime()
