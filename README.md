@@ -26,8 +26,6 @@ STARTCOLUMN
 
 ## online-editor
 
-* [codesandbox](https://codesandbox.io/s/)
-* [repl](https://repl.it/)
 * [codepen](https://codepen.io/pen/)
 * [drawio](https://www.draw.io/)
 * [photopea](https://www.photopea.com/)
@@ -42,8 +40,6 @@ STARTCOLUMN
 * [codeur](https://www.codeur.com/)
 * [malt](https://www.malt.fr/)
 * [freelance](https://www.freelance-info.fr/missions.php)
-* [talent](https://www.talent.io/)
-* [freelancerepublik](https://www.freelancerepublik.com/freelance)
 
 ## data-generator
 
@@ -73,8 +69,6 @@ STARTCOLUMN
 
 * [codewars](https://www.codewars.com)
 * [hackerrank](https://www.hackerrank.com/)
-* [coderbyte](https://coderbyte.com/)
-* [exercism](https://exercism.io/)
 * [leetcode](https://leetcode.com/)
 
 ## ressources-js
@@ -100,8 +94,6 @@ STARTCOLUMN
 * [flathub](https://flathub.org/apps/collection/recently-updated)
 * [fedora-magazine](https://fedoramagazine.org)
 * [centos](https://blog.centos.org)
-* [redhat-dev](https://developers.redhat.com/blog/)
-* [hacker-news](https://news.ycombinator.com/newest)
 
 ENDCOLUMN
 STARTCOLUMN
