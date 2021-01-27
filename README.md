@@ -3,14 +3,12 @@ STARTCOLUMN
 
 ## top
 
-* [liveserver](http://127.0.0.1:5500/)
+* [info-covid](https://www.gouvernement.fr/info-coronavirus)
+* [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
+* [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
 * [gitlab](https://gitlab.com/users/franckf/projects)
 * [github](https://github.com/franckf-git)
-* [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
-* [scantrad-union](https://www.scantrad-union.com/)
-* [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
-* [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
-* [info-covid](https://www.gouvernement.fr/info-coronavirus)
+* [liveserver](http://127.0.0.1:5500/)
 
 ## todo
 
@@ -50,14 +48,15 @@ STARTCOLUMN
 
 ## distraction
 
+* [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
 * [xkcd](https://www.xkcd.com)
 * [clients-from-hell](https://clientsfromhell.net)
 * [vdm](https://www.viedemerde.fr)
 * [commitstrip](https://www.commitstrip.com/fr/?)
 * [scantrad](https://scantrad.fr)
 * [koneko-scantrad](https://lel.koneko-scantrad.fr)
+* [scantrad-union](https://www.scantrad-union.com/)
 * [scan-manga](https://www.scan-manga.com)
-* [g/technology](https://boards.4channel.org/g/catalog)
 * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
 * [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
 * [cyrille-borne](https://cyrille-borne.com)
@@ -94,6 +93,7 @@ STARTCOLUMN
 * [flathub](https://flathub.org/apps/collection/recently-updated)
 * [fedora-magazine](https://fedoramagazine.org)
 * [centos](https://blog.centos.org)
+* [g/technology](https://boards.4channel.org/g/catalog)
 
 ENDCOLUMN
 STARTCOLUMN
