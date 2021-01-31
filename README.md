@@ -12,8 +12,6 @@ STARTCOLUMN
 
 ## todo
 
-* [rh-podman-pods](https://www.redhat.com/sysadmin/compose-podman-pods)
-* [fedora-podman-pods](https://fedoramagazine.org/podman-pods-fedora-containers/)
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
 * [ramda-functional](https://ramdajs.com/docs/)
 * [Gassets](https://github.com/Grafikart/Grafikart.fr/blob/master/assets/app.js)
