@@ -13,7 +13,6 @@ STARTCOLUMN
 ## todo
 
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
-* [Gassets](https://github.com/Grafikart/Grafikart.fr/blob/master/assets/app.js)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
 
@@ -103,6 +102,7 @@ STARTCOLUMN
 * [sys-admin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md)
 * [1loc](https://1loc.dev/)
 * [design-ressources](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)
+* [grafikart](https://github.com/Grafikart/Grafikart.fr)
 
 ## ressources-css
 
