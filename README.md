@@ -13,10 +13,7 @@ STARTCOLUMN
 ## todo
 
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
-* [ramda-functional](https://ramdajs.com/docs/)
 * [Gassets](https://github.com/Grafikart/Grafikart.fr/blob/master/assets/app.js)
-* [datefns](https://date-fns.org/)
-* [dayjs](https://day.js.org/en/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
 
