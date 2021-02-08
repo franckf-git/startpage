@@ -136,9 +136,24 @@ STARTCOLUMN
 
 ## twitch
 
-* [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
+* [theprimeagen](https://www.twitch.tv/theprimeagen)
 * [noopkat](https://www.twitch.tv/noopkat/videos)
 * [grafikat](https://www.twitch.tv/grafikart/videos)
+* [notpatrick](https://www.twitch.tv/notpatrick)
+* [nowtechqg](https://www.twitch.tv/nowtechqg)
+* [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
+* [ultia](https://www.twitch.tv/ultia)
+* [teampgp](https://www.twitch.tv/teampgp)
+* [antoinedaniel](https://www.twitch.tv/antoinedaniellive)
+* [krayn_live](https://www.twitch.tv/krayn_live)
+* [ponce](https://www.twitch.tv/ponce)
+* [rivenzi](https://www.twitch.tv/rivenzi)
+* [chatt](https://www.twitch.tv/chatt)
+* [jeeltv](https://www.twitch.tv/jeeltv)
+* [maghla](https://www.twitch.tv/maghla)
+* [littlebigwhale](https://www.twitch.tv/littlebigwhale)
+* [gom4rt](https://www.twitch.tv/gom4rt)
+* [angledroit](https://www.twitch.tv/angledroit)
 
 ## icons
 
