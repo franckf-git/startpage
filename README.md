@@ -56,7 +56,6 @@ STARTCOLUMN
 * [scan-manga](https://www.scan-manga.com)
 * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
 * [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
-* [cyrille-borne](https://cyrille-borne.com)
 
 ENDCOLUMN
 STARTCOLUMN
