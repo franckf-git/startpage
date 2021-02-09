@@ -136,6 +136,7 @@ STARTCOLUMN
 ## twitch
 
 * [theprimeagen](https://www.twitch.tv/theprimeagen)
+* [juliestrator](https://www.twitch.tv/juliestrator)
 * [noopkat](https://www.twitch.tv/noopkat/videos)
 * [grafikat](https://www.twitch.tv/grafikart/videos)
 * [notpatrick](https://www.twitch.tv/notpatrick)
