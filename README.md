@@ -18,7 +18,6 @@ STARTCOLUMN
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
 * [go](https://golang.org/doc/code.html)
-* [commit](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## online-editor
 
