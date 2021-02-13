@@ -17,7 +17,7 @@ STARTCOLUMN
 * [sailsjs](https://sailsjs.com/get-started)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
-* [go](https://golang.org/doc/code.html)
+* [go](https://go-tour-fr.appspot.com/basics/1)
 
 ## online-editor
 
