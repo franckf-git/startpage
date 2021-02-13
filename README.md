@@ -136,6 +136,7 @@ STARTCOLUMN
 ## twitch
 
 * [theprimeagen](https://www.twitch.tv/theprimeagen)
+* [beginbot](https://www.twitch.tv/beginbot/videos)
 * [juliestrator](https://www.twitch.tv/juliestrator)
 * [noopkat](https://www.twitch.tv/noopkat/videos)
 * [grafikat](https://www.twitch.tv/grafikart/videos)
@@ -145,7 +146,6 @@ STARTCOLUMN
 * [ultia](https://www.twitch.tv/ultia)
 * [teampgp](https://www.twitch.tv/teampgp)
 * [antoinedaniel](https://www.twitch.tv/antoinedaniellive)
-* [krayn_live](https://www.twitch.tv/krayn_live)
 * [ponce](https://www.twitch.tv/ponce)
 * [rivenzi](https://www.twitch.tv/rivenzi)
 * [chatt](https://www.twitch.tv/chatt)
