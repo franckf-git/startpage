@@ -22,10 +22,14 @@ STARTCOLUMN
 ## online-editor
 
 * [codepen](https://codepen.io/pen/)
+* [json](https://jsoneditoronline.org/)
 * [drawio](https://www.draw.io/)
 * [photopea](https://www.photopea.com/)
+* [draw](https://excalidraw.com/)
 * [codeimg](https://codeimg.io/)
+* [explainshell](https://explainshell.com/)
 * [nginx-configurator](https://www.digitalocean.com/community/tools/nginx)
+* [htaccess](https://htaccess.madewithlove.be/)
 
 ENDCOLUMN
 STARTCOLUMN
@@ -103,6 +107,7 @@ STARTCOLUMN
 
 * [sys-admin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md)
 * [1loc](https://1loc.dev/)
+* [devtools](https://devtools.best/)
 * [design-ressources](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)
 * [grafikart](https://github.com/Grafikart/Grafikart.fr)
 
@@ -160,7 +165,6 @@ STARTCOLUMN
 * [iconmonstr](https://iconmonstr.com/)
 * [illustrations](https://undraw.co/)
 * [favicon](https://realfavicongenerator.net/)
-* [utf8](https://unicode-table.com/fr/)
 
 ## colors
 
