@@ -22,6 +22,7 @@ STARTCOLUMN
 ## online-editor
 
 * [codepen](https://codepen.io/pen/)
+* [goplay](https://goplay.tools/)
 * [json](https://jsoneditoronline.org/)
 * [drawio](https://www.draw.io/)
 * [photopea](https://www.photopea.com/)
