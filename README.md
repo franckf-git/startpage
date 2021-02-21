@@ -18,6 +18,9 @@ STARTCOLUMN
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
 * [go](https://go-tour-fr.appspot.com/methods/4)
+* [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+* [tuto-digitalocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
+* [golang-book](http://www.golang-book.com/books/intro)
 
 ## online-editor
 
