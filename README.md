@@ -17,7 +17,7 @@ STARTCOLUMN
 * [sailsjs](https://sailsjs.com/get-started)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
-* [go](https://go-tour-fr.appspot.com/concurrency/1)
+* [effective-go](https://golang.org/doc/effective_go)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 * [tuto-digitalocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 * [golang-book](http://www.golang-book.com/books/intro)
