@@ -96,6 +96,8 @@ STARTCOLUMN
 * [cert-fr](https://www.cert.ssi.gouv.fr)
 * [flathub](https://flathub.org/apps/collection/recently-updated)
 * [fedora-magazine](https://fedoramagazine.org)
+* [discussion-fedora](https://discussion.fedoraproject.org/)
+* [forum-fedora](https://forums.fedoraforum.org/forum.php)
 * [centos](https://blog.centos.org)
 * [g/technology](https://boards.4channel.org/g/catalog)
 
@@ -156,6 +158,8 @@ STARTCOLUMN
 * [antoinedaniel](https://www.twitch.tv/antoinedaniellive)
 * [maghla](https://www.twitch.tv/maghla)
 * [angledroit](https://www.twitch.tv/angledroit)
+* [bagherajones](https://www.twitch.tv/bagherajones)
+* [purpleorwel](https://www.twitch.tv/purpleorwel)
 
 ## icons
 
