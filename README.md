@@ -19,7 +19,7 @@ STARTCOLUMN
 * [heroku](https://www.heroku.com/)
 * [effective-go](https://golang.org/doc/effective_go)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
-* [tuto-digitalocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
+* [golangdocs](https://golangdocs.com/variables-in-golang)
 * [golang-book](http://www.golang-book.com/books/intro)
 
 ## online-editor
