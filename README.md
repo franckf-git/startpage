@@ -17,10 +17,10 @@ STARTCOLUMN
 * [sailsjs](https://sailsjs.com/get-started)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
-* [effective-go](https://golang.org/doc/effective_go#methods)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#vars_shadow)
 * [golangdocs](https://golangdocs.com/variables-in-golang)
 * [golang-book](http://www.golang-book.com/books/intro)
+* [effective-go](https://golang.org/doc/effective_go#interfaces_and_types)
 
 ## online-editor
 
