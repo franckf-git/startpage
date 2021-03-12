@@ -125,42 +125,6 @@ STARTCOLUMN
 * [fontawesome](https://fontawesome.com/icons?d=gallery)
 * [css-minifier](https://cssminifier.com/)
 
-## podcast
-
-* [no-limit-secu](https://www.nolimitsecu.fr)
-* [comptoir-secu](https://www.comptoirsecu.fr)
-* [cpu](https://cpu.dascritch.net/)
-* [frenchspin](https://frenchspin.fr)
-* [artisandeveloppeur](https://artisandeveloppeur.fr/blog/)
-
-## youtube
-
-* [linuxtricks](https://www.youtube.com/channel/UCDKPGD9T00eS_l--D_DRTUQ/videos)
-* [level1techs](https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ/videos)
-* [distrotube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos)
-* [grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ/videos)
-* [traversy](https://www.youtube.com/user/TechGuyWeb/videos)
-
-ENDCOLUMN
-STARTCOLUMN
-
-## twitch
-
-* [theprimeagen](https://www.twitch.tv/theprimeagen)
-* [beginbot](https://www.twitch.tv/beginbot/videos)
-* [juliestrator](https://www.twitch.tv/juliestrator)
-* [noopkat](https://www.twitch.tv/noopkat/videos)
-* [grafikat](https://www.twitch.tv/grafikart/videos)
-* [notpatrick](https://www.twitch.tv/notpatrick)
-* [nowtechqg](https://www.twitch.tv/nowtechqg)
-* [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
-* [ultia](https://www.twitch.tv/ultia)
-* [antoinedaniel](https://www.twitch.tv/antoinedaniellive)
-* [maghla](https://www.twitch.tv/maghla)
-* [angledroit](https://www.twitch.tv/angledroit)
-* [bagherajones](https://www.twitch.tv/bagherajones)
-* [purpleorwel](https://www.twitch.tv/purpleorwel)
-
 ## icons
 
 * [iconmonstr](https://iconmonstr.com/)
@@ -178,6 +142,34 @@ STARTCOLUMN
 * [picsum](https://picsum.photos/)
 * [pexels](https://www.pexels.com/)
 * [unsplash](https://unsplash.com/)
+
+ENDCOLUMN
+STARTCOLUMN
+
+## podcast
+
+* [no-limit-secu](https://www.nolimitsecu.fr)
+* [comptoir-secu](https://www.comptoirsecu.fr)
+* [cpu](https://cpu.dascritch.net/)
+* [frenchspin](https://frenchspin.fr)
+* [artisandeveloppeur](https://artisandeveloppeur.fr/blog/)
+
+## youtube
+
+* [linuxtricks](https://www.youtube.com/channel/UCDKPGD9T00eS_l--D_DRTUQ/videos)
+* [level1techs](https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ/videos)
+* [distrotube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos)
+* [grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ/videos)
+* [traversy](https://www.youtube.com/user/TechGuyWeb/videos)
+
+## twitch
+
+* [theprimeagen](https://www.twitch.tv/theprimeagen)
+* [beginbot](https://www.twitch.tv/beginbot/videos)
+* [noopkat](https://www.twitch.tv/noopkat/videos)
+* [grafikat](https://www.twitch.tv/grafikart/videos)
+* [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
+* [ultia](https://www.twitch.tv/ultia)
 
 ENDCOLUMN
 
