@@ -17,7 +17,7 @@ STARTCOLUMN
 * [sailsjs](https://sailsjs.com/get-started)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
-* [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#vars_shadow)
+* [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [golangdocs](https://golangdocs.com/variables-in-golang)
 * [golang-book](http://www.golang-book.com/books/intro)
 * [effective-go](https://golang.org/doc/effective_go#interfaces_and_types)
