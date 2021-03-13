@@ -127,7 +127,7 @@ STARTCOLUMN
 
 ## icons
 
-* [iconmonstr](https://iconmonstr.com/)
+* [iconduck](https://iconduck.com/)
 * [illustrations](https://undraw.co/)
 * [favicon](https://realfavicongenerator.net/)
 
