@@ -18,7 +18,7 @@ STARTCOLUMN
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
-* [golangdocs](https://golangdocs.com/variables-in-golang)
+* [golangdocs](https://golangdocs.com/maps-in-golang)
 * [golang-book](http://www.golang-book.com/books/intro/7#section2)
 * [effective-go](https://golang.org/doc/effective_go#interfaces_and_types)
 
