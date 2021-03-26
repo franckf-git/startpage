@@ -104,11 +104,6 @@ STARTCOLUMN
 ENDCOLUMN
 STARTCOLUMN
 
-## veille
-
-* [r/node](https://www.reddit.com/r/node)
-* [dev.to](https://dev.to/)
-
 ## ressources-index
 
 * [sys-admin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md)
