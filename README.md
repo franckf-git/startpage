@@ -1,6 +1,15 @@
 
 STARTCOLUMN
 
+## top
+
+- [info-covid](https://www.gouvernement.fr/info-coronavirus)
+- [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
+- [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
+- [gitlab](https://gitlab.com/users/franckf/projects)
+- [github](https://github.com/franckf-git)
+- [liveserver](http://127.0.0.1:5500/)
+
 ## todo
 
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
@@ -25,20 +34,6 @@ STARTCOLUMN
 * [forum-fedora](https://forums.fedoraforum.org/forum.php)
 * [centos](https://blog.centos.org)
 * [g/technology](https://boards.4channel.org/g/catalog)
-
-## distraction
-
-* [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
-* [xkcd](https://www.xkcd.com)
-* [clients-from-hell](https://clientsfromhell.net)
-* [vdm](https://www.viedemerde.fr)
-* [commitstrip](https://www.commitstrip.com/fr/?)
-* [scantrad](https://scantrad.fr)
-* [koneko-scantrad](https://lel.koneko-scantrad.fr)
-* [scantrad-union](https://www.scantrad-union.com/)
-* [scan-manga](https://www.scan-manga.com)
-* [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
-* [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
 
 ENDCOLUMN
 STARTCOLUMN
@@ -71,15 +66,6 @@ STARTCOLUMN
 
 ENDCOLUMN
 STARTCOLUMN
-
-## top
-
-- [info-covid](https://www.gouvernement.fr/info-coronavirus)
-- [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
-- [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
-- [gitlab](https://gitlab.com/users/franckf/projects)
-- [github](https://github.com/franckf-git)
-- [liveserver](http://127.0.0.1:5500/)
 
 ## katas
 
@@ -165,6 +151,20 @@ STARTCOLUMN
 * [grafikat](https://www.twitch.tv/grafikart/videos)
 * [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
 * [ultia](https://www.twitch.tv/ultia)
+
+## distraction
+
+* [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
+* [xkcd](https://www.xkcd.com)
+* [clients-from-hell](https://clientsfromhell.net)
+* [vdm](https://www.viedemerde.fr)
+* [commitstrip](https://www.commitstrip.com/fr/?)
+* [scantrad](https://scantrad.fr)
+* [koneko-scantrad](https://lel.koneko-scantrad.fr)
+* [scantrad-union](https://www.scantrad-union.com/)
+* [scan-manga](https://www.scan-manga.com)
+* [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
+* [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
 
 ENDCOLUMN
 
