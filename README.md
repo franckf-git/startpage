@@ -1,15 +1,6 @@
 
 STARTCOLUMN
 
-## top
-
-- [info-covid](https://www.gouvernement.fr/info-coronavirus)
-- [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
-- [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
-- [gitlab](https://gitlab.com/users/franckf/projects)
-- [github](https://github.com/franckf-git)
-- [liveserver](http://127.0.0.1:5500/)
-
 ## todo
 
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
@@ -22,34 +13,18 @@ STARTCOLUMN
 * [golang-book](http://www.golang-book.com/books/intro/9)
 * [effective-go](https://golang.org/doc/effective_go#interfaces_and_types)
 
-## online-editor
+## tech
 
-* [codepen](https://codepen.io/pen/)
-* [goplay](https://play.golang.org/)
-* [json](https://jsoneditoronline.org/)
-* [drawio](https://www.draw.io/)
-* [photopea](https://www.photopea.com/)
-* [draw](https://excalidraw.com/)
-* [codeimg](https://codeimg.io/)
-* [explainshell](https://explainshell.com/)
-* [nginx-configurator](https://www.digitalocean.com/community/tools/nginx)
-* [htaccess](https://htaccess.madewithlove.be/)
-
-ENDCOLUMN
-STARTCOLUMN
-
-## platforms
-
-* [codeur](https://www.codeur.com/)
-* [malt](https://www.malt.fr/)
-* [freelance](https://www.freelance-info.fr/missions.php)
-
-## data-generator
-
-* [randomuser-api](https://www.randomuser.me/documentation#howto)
-* [jsonplaceholder](https://jsonplaceholder.typicode.com/)
-* [10minutemail](https://10minutemail.com)
-* [send-email](https://send-email.org/)
+* [journal-du-hacker](https://www.journalduhacker.net/recent)
+* [mini-machines](https://www.minimachines.net)
+* [tux-machines](http://www.tuxmachines.org)
+* [cert-fr](https://www.cert.ssi.gouv.fr)
+* [flathub](https://flathub.org/apps/collection/recently-updated)
+* [fedora-magazine](https://fedoramagazine.org)
+* [discussion-fedora](https://discussion.fedoraproject.org/)
+* [forum-fedora](https://forums.fedoraforum.org/forum.php)
+* [centos](https://blog.centos.org)
+* [g/technology](https://boards.4channel.org/g/catalog)
 
 ## distraction
 
@@ -67,6 +42,44 @@ STARTCOLUMN
 
 ENDCOLUMN
 STARTCOLUMN
+
+## platforms
+
+* [codeur](https://www.codeur.com/)
+* [malt](https://www.malt.fr/)
+* [freelance](https://www.freelance-info.fr/missions.php)
+
+## data-generator
+
+* [randomuser-api](https://www.randomuser.me/documentation#howto)
+* [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+* [10minutemail](https://10minutemail.com)
+* [send-email](https://send-email.org/)
+
+## online-editor
+
+* [codepen](https://codepen.io/pen/)
+* [goplay](https://play.golang.org/)
+* [json](https://jsoneditoronline.org/)
+* [drawio](https://www.draw.io/)
+* [photopea](https://www.photopea.com/)
+* [draw](https://excalidraw.com/)
+* [codeimg](https://codeimg.io/)
+* [explainshell](https://explainshell.com/)
+* [nginx-configurator](https://www.digitalocean.com/community/tools/nginx)
+* [htaccess](https://htaccess.madewithlove.be/)
+
+ENDCOLUMN
+STARTCOLUMN
+
+## top
+
+- [info-covid](https://www.gouvernement.fr/info-coronavirus)
+- [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
+- [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
+- [gitlab](https://gitlab.com/users/franckf/projects)
+- [github](https://github.com/franckf-git)
+- [liveserver](http://127.0.0.1:5500/)
 
 ## katas
 
@@ -87,19 +100,6 @@ STARTCOLUMN
 * [event-listeners](https://www.w3schools.com/jsref/dom_obj_event.asp)
 * [w3schools](https://www.w3schools.com/)
 * [MDN](https://developer.mozilla.org/fr/docs/Web)
-
-## tech
-
-* [journal-du-hacker](https://www.journalduhacker.net/recent)
-* [mini-machines](https://www.minimachines.net)
-* [tux-machines](http://www.tuxmachines.org)
-* [cert-fr](https://www.cert.ssi.gouv.fr)
-* [flathub](https://flathub.org/apps/collection/recently-updated)
-* [fedora-magazine](https://fedoramagazine.org)
-* [discussion-fedora](https://discussion.fedoraproject.org/)
-* [forum-fedora](https://forums.fedoraforum.org/forum.php)
-* [centos](https://blog.centos.org)
-* [g/technology](https://boards.4channel.org/g/catalog)
 
 ENDCOLUMN
 STARTCOLUMN
