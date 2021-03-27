@@ -31,7 +31,6 @@ STARTCOLUMN
 * [flathub](https://flathub.org/apps/collection/recently-updated)
 * [fedora-magazine](https://fedoramagazine.org)
 * [discussion-fedora](https://discussion.fedoraproject.org/)
-* [forum-fedora](https://forums.fedoraforum.org/forum.php)
 * [centos](https://blog.centos.org)
 * [g/technology](https://boards.4channel.org/g/catalog)
 
@@ -73,19 +72,23 @@ STARTCOLUMN
 * [hackerrank](https://www.hackerrank.com/)
 * [leetcode](https://leetcode.com/)
 
-## ressources-js
+## icons
 
-* [nodejs](https://nodejs.org/fr/docs/)
-* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md)
-* [js-minifier](https://javascript-minifier.com/)
-* [js-docs](https://jsdoc.app/index.html#block-tags)
+* [iconduck](https://iconduck.com/)
+* [illustrations](https://undraw.co/)
+* [favicon](https://realfavicongenerator.net/)
 
-## ressources-dom
+## colors
 
-* [codes-http](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
-* [event-listeners](https://www.w3schools.com/jsref/dom_obj_event.asp)
-* [w3schools](https://www.w3schools.com/)
-* [MDN](https://developer.mozilla.org/fr/docs/Web)
+* [palette](https://coolors.co/browser/best/1)
+* [picker](https://material.io/design/color/#tools-for-picking-colors)
+* [sample](https://material.io/resources/color/#!/?view.left=0&view.right=1)
+
+## images
+
+* [picsum](https://picsum.photos/)
+* [pexels](https://www.pexels.com/)
+* [unsplash](https://unsplash.com/)
 
 ENDCOLUMN
 STARTCOLUMN
@@ -106,23 +109,19 @@ STARTCOLUMN
 * [fontawesome](https://fontawesome.com/icons?d=gallery)
 * [css-minifier](https://cssminifier.com/)
 
-## icons
+## ressources-js
 
-* [iconduck](https://iconduck.com/)
-* [illustrations](https://undraw.co/)
-* [favicon](https://realfavicongenerator.net/)
+* [nodejs](https://nodejs.org/fr/docs/)
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md)
+* [js-minifier](https://javascript-minifier.com/)
+* [js-docs](https://jsdoc.app/index.html#block-tags)
 
-## colors
+## ressources-dom
 
-* [palette](https://coolors.co/browser/best/1)
-* [picker](https://material.io/design/color/#tools-for-picking-colors)
-* [sample](https://material.io/resources/color/#!/?view.left=0&view.right=1)
-
-## images
-
-* [picsum](https://picsum.photos/)
-* [pexels](https://www.pexels.com/)
-* [unsplash](https://unsplash.com/)
+* [codes-http](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
+* [event-listeners](https://www.w3schools.com/jsref/dom_obj_event.asp)
+* [w3schools](https://www.w3schools.com/)
+* [MDN](https://developer.mozilla.org/fr/docs/Web)
 
 ENDCOLUMN
 STARTCOLUMN
