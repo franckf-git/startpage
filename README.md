@@ -12,13 +12,13 @@ STARTCOLUMN
 
 ## todo
 
+* [golangdocs](https://golangdocs.com/slices-in-golang)
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
 * [nestjs](https://docs.nestjs.com/)
 * [sailsjs](https://sailsjs.com/get-started)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
-* [golangdocs](https://golangdocs.com/maps-in-golang)
 * [effective-go](https://golang.org/doc/effective_go#interfaces_and_types)
 
 ## tech
