@@ -12,6 +12,7 @@ STARTCOLUMN
 
 ## todo
 
+* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
 * [golangdocs](https://golangdocs.com/recursion-in-golang)
 * [adonisv5](https://preview.adonisjs.com/guides/http/form-submissions)
 * [nestjs](https://docs.nestjs.com/)
@@ -20,6 +21,9 @@ STARTCOLUMN
 * [heroku](https://www.heroku.com/)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [effective-go](https://golang.org/doc/effective_go#interfaces_and_types)
+* [case studies](https://go.dev/solutions#case-studies)
+* [gowebexamples](https://gowebexamples.com/)
+* [gophercises](https://gophercises.com/)
 
 ## tech
 
