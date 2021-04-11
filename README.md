@@ -13,7 +13,6 @@ STARTCOLUMN
 ## todo
 
 * [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
-* [effective-go](https://golang.org/doc/effective_go#blank)
 * [golangdocs](https://golangdocs.com/recursion-in-golang)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [case studies](https://go.dev/solutions#case-studies)
