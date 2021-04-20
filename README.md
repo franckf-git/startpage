@@ -12,7 +12,7 @@ STARTCOLUMN
 
 ## todo
 
-* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection#write-the-minimal-amount-of-code-for-the-test-to-run-and-check-the-failing-test-output)
+* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)
 * [golangdocs](https://golangdocs.com/recursion-in-golang)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [case studies](https://go.dev/solutions#case-studies)
@@ -145,7 +145,6 @@ STARTCOLUMN
 
 * [theprimeagen](https://www.twitch.tv/theprimeagen)
 * [beginbot](https://www.twitch.tv/beginbot/videos)
-* [noopkat](https://www.twitch.tv/noopkat/videos)
 * [grafikat](https://www.twitch.tv/grafikart/videos)
 * [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
 * [ultia](https://www.twitch.tv/ultia)
