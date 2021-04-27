@@ -12,10 +12,10 @@ STARTCOLUMN
 
 ## todo
 
-* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/build-an-application/app-intro)
+* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/build-an-application/http-server#write-the-test-first-1)
 * [golangdocs](https://golangdocs.com/recursion-in-golang)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
-* [case studies](https://go.dev/solutions#case-studies)
+* [case studies 3](https://go.dev/solutions#case-studies)
 * [gowebexamples](https://gowebexamples.com/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
