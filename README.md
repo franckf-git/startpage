@@ -12,7 +12,7 @@ STARTCOLUMN
 
 ## todo
 
-* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/build-an-application/command-line)
+* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/build-an-application/command-line#write-enough-code-to-make-it-pass-2)
 * [deep-in-interfaces](https://www.alexedwards.net/blog/interfaces-explained)
 * [golangdocs](https://golangdocs.com/recursion-in-golang)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
