@@ -12,7 +12,6 @@ STARTCOLUMN
 
 ## todo
 
-* [learn-with-tests](https://quii.gitbook.io/learn-go-with-tests/questions-and-answers/os-exec)
 * [deep-in-interfaces](https://www.alexedwards.net/blog/interfaces-explained)
 * [explore-go-blog](https://www.calhoun.io/)
 * [golangdocs](https://golangdocs.com/recursion-in-golang)
