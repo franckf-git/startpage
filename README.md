@@ -56,7 +56,6 @@ STARTCOLUMN
 * [json](https://jsoneditoronline.org/)
 * [drawio](https://www.draw.io/)
 * [photopea](https://www.photopea.com/)
-* [draw](https://excalidraw.com/)
 * [codeimg](https://codeimg.io/)
 * [explainshell](https://explainshell.com/)
 * [nginx-configurator](https://www.digitalocean.com/community/tools/nginx)
