@@ -14,7 +14,7 @@ STARTCOLUMN
 
 * [deep-in-interfaces](https://www.alexedwards.net/blog/interfaces-explained)
 * [explore-go-blog](https://www.calhoun.io/)
-* [golangdocs](https://golangdocs.com/recursion-in-golang)
+* [golangdocs](https://golangdocs.com/variadic-functions-in-golang)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [gowebexamples](https://gowebexamples.com/)
 * [gophercises](https://gophercises.com/)
