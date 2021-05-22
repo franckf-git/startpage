@@ -12,8 +12,6 @@ STARTCOLUMN
 
 ## todo
 
-* [deep-in-interfaces](https://www.alexedwards.net/blog/interfaces-explained)
-* [golangdocs](https://golangdocs.com/interfaces-in-golang)
 * [explore-go-blog](https://www.calhoun.io/)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [gowebexamples](https://gowebexamples.com/)
