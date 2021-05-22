@@ -52,7 +52,6 @@ STARTCOLUMN
 
 * [codepen](https://codepen.io/pen/)
 * [goplay](https://play.golang.org/)
-* [json](https://jsoneditoronline.org/)
 * [drawio](https://www.draw.io/)
 * [photopea](https://www.photopea.com/)
 * [codeimg](https://codeimg.io/)
@@ -96,13 +95,11 @@ STARTCOLUMN
 * [1loc](https://1loc.dev/)
 * [devtools](https://devtools.best/)
 * [design-ressources](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)
-* [grafikart](https://github.com/Grafikart/Grafikart.fr)
 
 ## ressources-css
 
 * [bootstrap](https://www.w3schools.com/bootstrap4/default.asp)
 * [bulma](https://bulma.io/documentation/)
-* [bulma-builder](https://bulma.dev/)
 * [fontawesome](https://fontawesome.com/icons?d=gallery)
 * [css-minifier](https://cssminifier.com/)
 
