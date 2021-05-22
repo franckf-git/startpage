@@ -151,7 +151,7 @@ STARTCOLUMN
 * [clients-from-hell](https://clientsfromhell.net)
 * [vdm](https://www.viedemerde.fr)
 * [commitstrip](https://www.commitstrip.com/fr/?)
-* [scantrad](https://scantrad.fr)
+* [scantrad](https://scantrad.net)
 * [koneko-scantrad](https://lel.koneko-scantrad.fr)
 * [scantrad-union](https://www.scantrad-union.com/)
 * [scan-manga](https://www.scan-manga.com)
