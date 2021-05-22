@@ -10,16 +10,6 @@ STARTCOLUMN
 - [github](https://github.com/franckf-git)
 - [liveserver](http://127.0.0.1:5500/)
 
-## todo
-
-* [godocs](https://golangdocs.com/type-assertions-in-golang)
-* [explore-go-blog](https://www.calhoun.io/)
-* [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
-* [gowebexamples](https://gowebexamples.com/)
-* [gophercises](https://gophercises.com/)
-* [netlify](https://www.netlify.com/)
-* [heroku](https://www.heroku.com/)
-
 ## tech
 
 * [journal-du-hacker](https://www.journalduhacker.net/recent)
@@ -35,11 +25,15 @@ STARTCOLUMN
 ENDCOLUMN
 STARTCOLUMN
 
-## platforms
+## todo
 
-* [codeur](https://www.codeur.com/)
-* [malt](https://www.malt.fr/)
-* [freelance](https://www.freelance-info.fr/missions.php)
+* [godocs](https://golangdocs.com/type-assertions-in-golang)
+* [explore-go-blog](https://www.calhoun.io/)
+* [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
+* [gowebexamples](https://gowebexamples.com/)
+* [gophercises](https://gophercises.com/)
+* [netlify](https://www.netlify.com/)
+* [heroku](https://www.heroku.com/)
 
 ## data-generator
 
@@ -61,6 +55,12 @@ STARTCOLUMN
 
 ENDCOLUMN
 STARTCOLUMN
+
+## platforms
+
+* [codeur](https://www.codeur.com/)
+* [malt](https://www.malt.fr/)
+* [freelance](https://www.freelance-info.fr/missions.php)
 
 ## katas
 
@@ -117,9 +117,6 @@ STARTCOLUMN
 * [w3schools](https://www.w3schools.com/)
 * [MDN](https://developer.mozilla.org/fr/docs/Web)
 
-ENDCOLUMN
-STARTCOLUMN
-
 ## podcast
 
 * [no-limit-secu](https://www.nolimitsecu.fr)
@@ -127,6 +124,9 @@ STARTCOLUMN
 * [cpu](https://cpu.dascritch.net/)
 * [frenchspin](https://frenchspin.fr)
 * [artisandeveloppeur](https://artisandeveloppeur.fr/blog/)
+
+ENDCOLUMN
+STARTCOLUMN
 
 ## youtube
 
