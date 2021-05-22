@@ -12,6 +12,7 @@ STARTCOLUMN
 
 ## todo
 
+* [godocs](https://golangdocs.com/type-assertions-in-golang)
 * [explore-go-blog](https://www.calhoun.io/)
 * [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [gowebexamples](https://gowebexamples.com/)
