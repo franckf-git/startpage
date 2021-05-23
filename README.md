@@ -115,6 +115,9 @@ STARTCOLUMN
 * [w3schools](https://www.w3schools.com/)
 * [MDN](https://developer.mozilla.org/fr/docs/Web)
 
+ENDCOLUMN
+STARTCOLUMN
+
 ## podcast
 
 * [no-limit-secu](https://www.nolimitsecu.fr)
@@ -122,9 +125,6 @@ STARTCOLUMN
 * [cpu](https://cpu.dascritch.net/)
 * [frenchspin](https://frenchspin.fr)
 * [artisandeveloppeur](https://artisandeveloppeur.fr/blog/)
-
-ENDCOLUMN
-STARTCOLUMN
 
 ## youtube
 
@@ -145,14 +145,6 @@ STARTCOLUMN
 ## distraction
 
 * [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
-* [xkcd](https://www.xkcd.com)
-* [clients-from-hell](https://clientsfromhell.net)
-* [vdm](https://www.viedemerde.fr)
-* [commitstrip](https://www.commitstrip.com/fr/?)
-* [scantrad](https://scantrad.net)
-* [koneko-scantrad](https://lel.koneko-scantrad.fr)
-* [scantrad-union](https://www.scantrad-union.com/)
-* [scan-manga](https://www.scan-manga.com)
 * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
 * [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
 
