@@ -28,7 +28,6 @@ STARTCOLUMN
 ## todo
 
 * [godocs](https://golangdocs.com/switch-statement-in-golang)
-* [50-currents-mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#string_byte_slice_conv)
 * [gowebexamples](https://gowebexamples.com/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
