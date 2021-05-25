@@ -27,7 +27,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/switch-statement-in-golang)
+* [godocs](https://golangdocs.com/concatenate-strings-in-golang)
 * [gowebexamples](https://gowebexamples.com/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
