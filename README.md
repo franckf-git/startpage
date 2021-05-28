@@ -27,7 +27,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/println-function-in-golang)
+* [godocs](https://golangdocs.com/the-if-else-expression-in-golang)
 * [gowebexamples](https://gowebexamples.com/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
