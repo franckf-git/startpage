@@ -4,7 +4,6 @@ STARTCOLUMN
 ## top
 
 - [info-covid](https://www.gouvernement.fr/info-coronavirus)
-- [attestation](https://media.interieur.gouv.fr/deplacement-covid-19/)
 - [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
 - [gitlab](https://gitlab.com/users/franckf/projects)
 - [github](https://github.com/franckf-git)
