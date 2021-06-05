@@ -120,7 +120,6 @@ STARTCOLUMN
 ## podcast
 
 * [no-limit-secu](https://www.nolimitsecu.fr)
-* [comptoir-secu](https://www.comptoirsecu.fr)
 * [cpu](https://cpu.dascritch.net/)
 * [frenchspin](https://frenchspin.fr)
 * [artisandeveloppeur](https://artisandeveloppeur.fr/blog/)
@@ -136,7 +135,6 @@ STARTCOLUMN
 ## twitch
 
 * [theprimeagen](https://www.twitch.tv/theprimeagen)
-* [beginbot](https://www.twitch.tv/beginbot/videos)
 * [grafikat](https://www.twitch.tv/grafikart/videos)
 * [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
 * [ultia](https://www.twitch.tv/ultia)
