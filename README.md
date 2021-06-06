@@ -26,7 +26,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/pointer-to-a-function-in-golang)
+* [godocs](https://golangdocs.com/closures-in-golang)
 * [gowebexamples](https://gowebexamples.com/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
