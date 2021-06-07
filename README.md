@@ -26,8 +26,8 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/closures-in-golang)
-* [gowebexamples](https://gowebexamples.com/)
+* [godocs](https://golangdocs.com/scanner-package-in-golang)
+* [gowebexamples](https://gowebexamples.com/http-server/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
