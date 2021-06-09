@@ -27,8 +27,6 @@ STARTCOLUMN
 ## todo
 
 * [godocs](https://golangdocs.com/substring-in-golang)
-* [concurrency in maps](https://blog.golang.org/maps)
-* [declaration-details](https://blog.golang.org/declaration-syntax)
 * [gowebexamples](https://gowebexamples.com/http-server/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
