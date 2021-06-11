@@ -27,7 +27,7 @@ STARTCOLUMN
 ## todo
 
 * [godocs](https://golangdocs.com/atomic-operations-in-golang-atomic-package)
-* [gowebexamples](https://gowebexamples.com/http-server/)
+* [gowebexamples](https://gowebexamples.com/routes-using-gorilla-mux/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
