@@ -27,7 +27,7 @@ STARTCOLUMN
 ## todo
 
 * [godocs](https://golangdocs.com/inheritance-in-golang)
-* [gowebexamples](https://gowebexamples.com/routes-using-gorilla-mux/)
+* [gowebexamples](https://gowebexamples.com/mysql-database/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
