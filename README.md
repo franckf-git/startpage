@@ -26,7 +26,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/polymorphism-in-golang)
+* [godocs](https://golangdocs.com/http-server-in-golang)
 * [gowebexamples](https://gowebexamples.com/mysql-database/)
 * [tinygo](https://tinygo.org/getting-started/install/using-docker/)
 * [gophercises](https://gophercises.com/)
