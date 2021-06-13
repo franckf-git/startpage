@@ -29,7 +29,6 @@ STARTCOLUMN
 * [godocs](https://golangdocs.com/polymorphism-in-golang)
 * [gowebexamples](https://gowebexamples.com/mysql-database/)
 * [tinygo](https://tinygo.org/getting-started/install/using-docker/)
-* [webassembly](https://github.com/golang/go/wiki/WebAssembly#getting-started)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
