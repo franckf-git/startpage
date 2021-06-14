@@ -26,9 +26,8 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/mysql-golang-crud-example)
-* [gowebexamples](https://gowebexamples.com/mysql-database/)
-* [tinygo](https://tinygo.org/getting-started/install/using-docker/)
+* [godocs](https://golangdocs.com/aes-encryption-decryption-in-golang)
+* [gowebexamples](https://gowebexamples.com/templates/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
