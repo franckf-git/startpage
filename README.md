@@ -27,7 +27,6 @@ STARTCOLUMN
 ## todo
 
 * [godocs](https://golangdocs.com/io-package-in-golang)
-* [gowebexamples](https://gowebexamples.com/templates/)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
