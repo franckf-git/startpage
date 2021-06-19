@@ -26,7 +26,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/the-test-functions-in-golang)
+* [godocs](https://golangdocs.com/golang-docker)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
