@@ -26,7 +26,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/golang-best-practices)
+* [godocs](https://golangdocs.com/golang-web-application)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
