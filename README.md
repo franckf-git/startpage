@@ -26,7 +26,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/golang-web-application)
+* [godocs](https://golangdocs.com/golang-graphql-gqlgen)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
