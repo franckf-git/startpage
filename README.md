@@ -27,7 +27,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/golang-parser-package)
+* [godocs](https://golangdocs.com/golang-context-package)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
