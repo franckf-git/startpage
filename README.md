@@ -27,7 +27,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/golang-cassandra-example)
+* [godocs](https://golangdocs.com/golang-download-files)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
