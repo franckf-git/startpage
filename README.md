@@ -27,7 +27,7 @@ STARTCOLUMN
 
 ## todo
 
-* [godocs](https://golangdocs.com/system-programming-in-go-1)
+* [godocs](https://golangdocs.com/plotting-in-golang-histogram-barplot-boxplot)
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
