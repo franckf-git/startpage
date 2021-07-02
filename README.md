@@ -49,7 +49,9 @@ STARTCOLUMN
 * [gophercises](https://gophercises.com/)
 * [netlify](https://www.netlify.com/)
 * [heroku](https://www.heroku.com/)
-* [matomo](https://matomo.org/) vs [plausible](https://plausible.io/)
+<ul>
+<li><a href="https://matomo.org/" target="_blank">matomo</a> vs <a href="https://plausible.io/" target="_blank">plausible</a></li>
+</ul>
 
 ## data-generator
 
