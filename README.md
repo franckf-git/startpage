@@ -47,8 +47,9 @@ STARTCOLUMN
 * [package-layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 * [style-packages](https://rakyll.org/style-packages)
 * [gophercises](https://gophercises.com/)
-* [netlify](https://www.netlify.com/)
-* [heroku](https://www.heroku.com/)
+<ul>
+<li><a href="https://netifly.com/" target="_blank">netifly</a> vs <a href="https://heroku.com/" target="_blank">heroku</a></li>
+</ul>
 <ul>
 <li><a href="https://matomo.org/" target="_blank">matomo</a> vs <a href="https://plausible.io/" target="_blank">plausible</a></li>
 </ul>
