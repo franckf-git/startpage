@@ -34,7 +34,6 @@ STARTCOLUMN
 * [A GIF decoder: an exercise in Go interfaces - The Go Blog](https://blog.golang.org/gif-decoder)
 * [Working with Errors in Go 1.13 - The Go Blog](https://blog.golang.org/go1.13-errors)
 * [Godoc: documenting Go code - The Go Blog](https://blog.golang.org/godoc)
-* [JSON and Go - The Go Blog](https://blog.golang.org/json)
 * [HTTP/2 Server Push - The Go Blog](https://blog.golang.org/h2push)
 * [Organizing Go code - The Go Blog](https://blog.golang.org/organizing-go-code)
 * [Contexts and structs - The Go Blog](https://blog.golang.org/context-and-structs)
