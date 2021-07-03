@@ -40,7 +40,6 @@ STARTCOLUMN
 * [Organising Database Access in Go - Alex Edwards](https://www.alexedwards.net/blog/organising-database-access)
 * [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
-* [Using PostgreSQL with Go - Calhoun.io](https://www.calhoun.io/using-postgresql-with-go)
 * [Introducing the Go Race Detector - The Go Blog](https://blog.golang.org/race-detector)
 * [Peter Bourgon · Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 * [package-layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
