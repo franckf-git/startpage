@@ -27,8 +27,6 @@ STARTCOLUMN
 ## todo
 
 * [Go Concurrency Patterns: Timing out, moving on - The Go Blog](https://blog.golang.org/concurrency-timeouts)
-* [Defer, Panic, and Recover - The Go Blog](https://blog.golang.org/defer-panic-and-recover)
-* [Deploying Go servers with Docker - The Go Blog](https://blog.golang.org/docker)
 * [Error handling and Go - The Go Blog](https://blog.golang.org/error-handling-and-go)
 * [Generating code - The Go Blog](https://blog.golang.org/generate)
 * [A GIF decoder: an exercise in Go interfaces - The Go Blog](https://blog.golang.org/gif-decoder)
