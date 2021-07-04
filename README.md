@@ -41,6 +41,16 @@ STARTCOLUMN
 * [Introducing the Go Race Detector - The Go Blog](https://blog.golang.org/race-detector)
 * [package-layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 * [style-packages](https://rakyll.org/style-packages)
+* [jaime-ma-stack](https://zestedesavoir.com/billets/3598/jaime-ma-stack/)
+* [modeliser-la-solution-plutot-que-le-probleme](https://zestedesavoir.com/billets/3683/modeliser-la-solution-plutot-que-le-probleme/)
+* [un-bot-xkcd-en-go-episode-1](https://zestedesavoir.com/billets/3700/un-bot-xkcd-en-go-episode-1/)
+* [un-bot-xkcd-en-go-episode-2](https://zestedesavoir.com/billets/3705/un-bot-xkcd-en-go-episode-2/)
+* [ladvent-of-code-2020-en-go-jours-1-a-5](https://zestedesavoir.com/billets/3721/ladvent-of-code-2020-en-go-jours-1-a-5/)
+* [ladvent-of-code-2020-en-go-jours-6-a-10](https://zestedesavoir.com/billets/3723/ladvent-of-code-2020-en-go-jours-6-a-10/)
+* [ladvent-of-code-2020-en-go-jours-11-a-15](https://zestedesavoir.com/billets/3731/ladvent-of-code-2020-en-go-jours-11-a-15/)
+* [ladvent-of-code-2020-en-go-jours-16-a-20](https://zestedesavoir.com/billets/3742/ladvent-of-code-2020-en-go-jours-16-a-20/)
+* [quest-ce-que-le-software-craftsmanship](https://zestedesavoir.com/billets/3937/quest-ce-que-le-software-craftsmanship/)
+* [le-kata-du-bowling-game](https://zestedesavoir.com/billets/3951/le-kata-du-bowling-game/)
 * [gophercises](https://gophercises.com/)
 <ul>
 <li><a href="https://netifly.com/" target="_blank">netifly</a> vs <a href="https://heroku.com/" target="_blank">heroku</a></li>
