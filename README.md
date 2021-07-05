@@ -39,7 +39,6 @@ STARTCOLUMN
 * [Introducing the Go Race Detector - The Go Blog](https://blog.golang.org/race-detector)
 * [package-layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 * [style-packages](https://rakyll.org/style-packages)
-* [jaime-ma-stack](https://zestedesavoir.com/billets/3598/jaime-ma-stack/)
 * [modeliser-la-solution-plutot-que-le-probleme](https://zestedesavoir.com/billets/3683/modeliser-la-solution-plutot-que-le-probleme/)
 * [un-bot-xkcd-en-go-episode-1](https://zestedesavoir.com/billets/3700/un-bot-xkcd-en-go-episode-1/)
 * [un-bot-xkcd-en-go-episode-2](https://zestedesavoir.com/billets/3705/un-bot-xkcd-en-go-episode-2/)
