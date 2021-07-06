@@ -33,7 +33,6 @@ STARTCOLUMN
 * [Working with Errors in Go 1.13 - The Go Blog](https://blog.golang.org/go1.13-errors)
 * [HTTP/2 Server Push - The Go Blog](https://blog.golang.org/h2push)
 * [Contexts and structs - The Go Blog](https://blog.golang.org/context-and-structs)
-* [Organising Database Access in Go - Alex Edwards](https://www.alexedwards.net/blog/organising-database-access)
 * [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
 * [Introducing the Go Race Detector - The Go Blog](https://blog.golang.org/race-detector)
