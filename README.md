@@ -160,10 +160,11 @@ STARTCOLUMN
 
 ## twitch
 
-* [theprimeagen](https://www.twitch.tv/theprimeagen)
 * [grafikat](https://www.twitch.tv/grafikart/videos)
 * [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
-* [ultia](https://www.twitch.tv/ultia)
+* [ultia](https://www.twitch.tv/ultia/videos)
+* [angledroit](https://www.twitch.tv/angledroit/videos)
+* [bagherajones](https://www.twitch.tv/bagherajones/videos)
 
 ## distraction
 
