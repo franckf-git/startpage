@@ -31,7 +31,6 @@ STARTCOLUMN
 * [How to Parse a JSON Request](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 * [Validation Snippets for Go](https://www.alexedwards.net/blog/validation-snippets-for-go)
 * [Go Concurrency Patterns: Timing out, moving on - The Go Blog](https://blog.golang.org/concurrency-timeouts)
-* [Error handling and Go - The Go Blog](https://blog.golang.org/error-handling-and-go)
 * [Generating code - The Go Blog](https://blog.golang.org/generate)
 * [A GIF decoder: an exercise in Go interfaces - The Go Blog](https://blog.golang.org/gif-decoder)
 * [Working with Errors in Go 1.13 - The Go Blog](https://blog.golang.org/go1.13-errors)
