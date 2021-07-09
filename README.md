@@ -47,7 +47,6 @@ STARTCOLUMN
 * [ladvent-of-code-2020-en-go-jours-6-a-10](https://zestedesavoir.com/billets/3723/ladvent-of-code-2020-en-go-jours-6-a-10/)
 * [ladvent-of-code-2020-en-go-jours-11-a-15](https://zestedesavoir.com/billets/3731/ladvent-of-code-2020-en-go-jours-11-a-15/)
 * [ladvent-of-code-2020-en-go-jours-16-a-20](https://zestedesavoir.com/billets/3742/ladvent-of-code-2020-en-go-jours-16-a-20/)
-* [quest-ce-que-le-software-craftsmanship](https://zestedesavoir.com/billets/3937/quest-ce-que-le-software-craftsmanship/)
 * [le-kata-du-bowling-game](https://zestedesavoir.com/billets/3951/le-kata-du-bowling-game/)
 * [gophercises](https://gophercises.com/)
 <ul>
