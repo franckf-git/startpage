@@ -33,7 +33,6 @@ STARTCOLUMN
 * [Go Concurrency Patterns: Timing out, moving on - The Go Blog](https://blog.golang.org/concurrency-timeouts)
 * [Generating code - The Go Blog](https://blog.golang.org/generate)
 * [A GIF decoder: an exercise in Go interfaces - The Go Blog](https://blog.golang.org/gif-decoder)
-* [Working with Errors in Go 1.13 - The Go Blog](https://blog.golang.org/go1.13-errors)
 * [HTTP/2 Server Push - The Go Blog](https://blog.golang.org/h2push)
 * [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
