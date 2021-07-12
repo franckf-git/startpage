@@ -36,7 +36,6 @@ STARTCOLUMN
 * [HTTP/2 Server Push - The Go Blog](https://blog.golang.org/h2push)
 * [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
-* [Introducing the Go Race Detector - The Go Blog](https://blog.golang.org/race-detector)
 * [modeliser-la-solution-plutot-que-le-probleme](https://zestedesavoir.com/billets/3683/modeliser-la-solution-plutot-que-le-probleme/)
 * [un-bot-xkcd-en-go-episode-1](https://zestedesavoir.com/billets/3700/un-bot-xkcd-en-go-episode-1/)
 * [un-bot-xkcd-en-go-episode-2](https://zestedesavoir.com/billets/3705/un-bot-xkcd-en-go-episode-2/)
