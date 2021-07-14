@@ -27,7 +27,6 @@ STARTCOLUMN
 ## todo
 
 * [How to correctly use Basic Authentication in Go](https://www.alexedwards.net/blog/basic-authentication-in-go)
-* [Surprises and Gotchas When Working With JSON](https://www.alexedwards.net/blog/json-surprises-and-gotchas)
 * [How to Parse a JSON Request](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 * [Validation Snippets for Go](https://www.alexedwards.net/blog/validation-snippets-for-go)
 * [Go Concurrency Patterns: Timing out, moving on - The Go Blog](https://blog.golang.org/concurrency-timeouts)
