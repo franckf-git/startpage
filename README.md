@@ -29,8 +29,6 @@ STARTCOLUMN
 * [How to correctly use Basic Authentication in Go](https://www.alexedwards.net/blog/basic-authentication-in-go)
 * [How to Parse a JSON Request](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 * [Validation Snippets for Go](https://www.alexedwards.net/blog/validation-snippets-for-go)
-* [A GIF decoder: an exercise in Go interfaces - The Go Blog](https://blog.golang.org/gif-decoder)
-* [HTTP/2 Server Push - The Go Blog](https://blog.golang.org/h2push)
 * [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
 * [modeliser-la-solution-plutot-que-le-probleme](https://zestedesavoir.com/billets/3683/modeliser-la-solution-plutot-que-le-probleme/)
