@@ -26,7 +26,6 @@ STARTCOLUMN
 
 ## todo
 
-* [How to Parse a JSON Request](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 * [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
 * [modeliser-la-solution](https://zestedesavoir.com/billets/3683/modeliser-la-solution-plutot-que-le-probleme/)
