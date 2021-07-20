@@ -29,7 +29,6 @@ STARTCOLUMN
 * [How to correctly use Basic Authentication in Go](https://www.alexedwards.net/blog/basic-authentication-in-go)
 * [How to Parse a JSON Request](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 * [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
-* [disable-http-fileserver-directory-listings](https://www.alexedwards.net/blog/disable-http-fileserver-directory-listings)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
 * [modeliser-la-solution-plutot-que-le-probleme](https://zestedesavoir.com/billets/3683/modeliser-la-solution-plutot-que-le-probleme/)
 * [un-bot-xkcd-en-go-episode-1](https://zestedesavoir.com/billets/3700/un-bot-xkcd-en-go-episode-1/)
