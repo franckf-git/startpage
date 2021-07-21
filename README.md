@@ -26,7 +26,6 @@ STARTCOLUMN
 
 ## todo
 
-* [Using MVC to Structure Go Web Applications - Calhoun.io](https://www.calhoun.io/using-mvc-to-structure-go-web-applications)
 * [deeper in init](https://www.digitalocean.com/community/tutorials/understanding-init-in-go)
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
 * [modeliser-la-solution](https://zestedesavoir.com/billets/3683/modeliser-la-solution-plutot-que-le-probleme/)
