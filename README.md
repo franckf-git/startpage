@@ -27,7 +27,6 @@ STARTCOLUMN
 ## todo
 
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
-* [un-bot-xkcd-en-go-episode-2](https://zestedesavoir.com/billets/3705/un-bot-xkcd-en-go-episode-2/)
 * [code-2020-en-go-jours-1-a-5](https://zestedesavoir.com/billets/3721/ladvent-of-code-2020-en-go-jours-1-a-5/)
 * [code-2020-en-go-jours-6-a-10](https://zestedesavoir.com/billets/3723/ladvent-of-code-2020-en-go-jours-6-a-10/)
 * [code-2020-en-go-jours-11-a-15](https://zestedesavoir.com/billets/3731/ladvent-of-code-2020-en-go-jours-11-a-15/)
