@@ -27,7 +27,6 @@ STARTCOLUMN
 ## todo
 
 * [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
-* [le-kata-du-bowling-game](https://zestedesavoir.com/billets/3951/le-kata-du-bowling-game/)
 * [gophercises](https://gophercises.com/)
 * [mkcert](https://github.com/FiloSottile/mkcert)
 <ul>
