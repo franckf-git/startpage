@@ -26,8 +26,6 @@ STARTCOLUMN
 
 ## todo
 
-* [Lets Learn Algorithms - Calhoun.io](https://www.calhoun.io/lets-learn-algorithms)
-* [Algorithme de tri](https://fr.wikipedia.org/wiki/Algorithme_de_tri)
 * [gophercises](https://gophercises.com/)
 * [mkcert](https://github.com/FiloSottile/mkcert)
 <ul>
