@@ -27,6 +27,7 @@ STARTCOLUMN
 ## todo
 
 * [devopsec-goroutines](https://devopssec.fr/article/goroutines-golang)
+* [tutorialedge](https://tutorialedge.net/golang/getting-started-with-go/)
 * [gophercises](https://gophercises.com/)
 * [mkcert](https://github.com/FiloSottile/mkcert)
 <ul>
