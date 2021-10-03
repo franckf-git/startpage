@@ -28,7 +28,6 @@ STARTCOLUMN
 
 * [devopsec-goroutines](https://devopssec.fr/article/goroutines-golang)
 * [tutorialedge](https://tutorialedge.net/golang/getting-started-with-go/)
-* [go-sql-deep](http://go-database-sql.org/overview.html)
 * [gophercises](https://gophercises.com/)
 * [mkcert](https://github.com/FiloSottile/mkcert)
 <ul>
