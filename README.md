@@ -29,6 +29,7 @@ STARTCOLUMN
 * [devopsec-goroutines](https://devopssec.fr/article/goroutines-golang)
 * [tutorialedge](https://tutorialedge.net/golang/getting-started-with-go/)
 * [go-exposing](https://blog.cloudflare.com/exposing-go-on-the-internet/)
+* [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
 * [mkcert](https://github.com/FiloSottile/mkcert)
 <ul>
