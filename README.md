@@ -32,6 +32,13 @@ STARTCOLUMN
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
 * [mkcert](https://github.com/FiloSottile/mkcert)
+* [faking-stdin-and-stdout-in-go](https://eli.thegreenplace.net/2020/faking-stdin-and-stdout-in-go/)
+* [embedding-in-go-part-1-structs-in-structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/)
+* [simple-go-project-layout-with-modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
+* [faster-xml-stream-processing-in-go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
+* [to-orm-or-not-to-orm](https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/)
+* [rest-servers-in-go-part-1-standard-library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+* [a-comprehensive-guide-to-go-generate](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
 <ul>
 <li><a href="https://netifly.com/" target="_blank">netifly</a> vs <a href="https://heroku.com/" target="_blank">heroku</a></li>
 </ul>
