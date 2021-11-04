@@ -9,12 +9,6 @@ STARTCOLUMN
 - [github](https://github.com/franckf-git)
 - [liveserver](http://127.0.0.1:5500/)
 
-<a href="https://gitlab.com/franckf/conkyweb/"><img src="https://gitlab.com/franckf/conkyweb/badges/master/pipeline.svg"></a>
-<a href="https://gitlab.com/franckf/copropriete/"><img src="https://gitlab.com/franckf/copropriete/badges/main/pipeline.svg"></a>
-<a href="https://gitlab.com/franckf/rtfm/"><img src="https://gitlab.com/franckf/rtfm/badges/master/pipeline.svg"></a>
-<a href="https://gitlab.com/franckf/startpage/"><img src="https://gitlab.com/franckf/startpage/badges/master/pipeline.svg"></a>
-<a href="https://gitlab.com/franckf/urlviewer-go/"><img src="https://gitlab.com/franckf/urlviewer-go/badges/main/pipeline.svg"></a>
-
 ## tech
 
 * [journal-du-hacker](https://www.journalduhacker.net/recent)
