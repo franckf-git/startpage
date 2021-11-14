@@ -25,7 +25,6 @@ STARTCOLUMN
 
 ## todo
 
-* [devopsec-goroutines](https://devopssec.fr/article/goroutines-golang)
 * [tutorialedge](https://tutorialedge.net/golang/getting-started-with-go/)
 * [go-exposing](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
@@ -35,7 +34,6 @@ STARTCOLUMN
 * [embedding-in-go-part-1-structs-in-structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/)
 * [simple-go-project-layout-with-modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
 * [faster-xml-stream-processing-in-go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
-* [to-orm-or-not-to-orm](https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/)
 * [rest-servers-in-go-part-1-standard-library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 
 <ul>
