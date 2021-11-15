@@ -32,8 +32,6 @@ STARTCOLUMN
 * [mkcert](https://github.com/FiloSottile/mkcert)
 * [faking-stdin-and-stdout-in-go](https://eli.thegreenplace.net/2020/faking-stdin-and-stdout-in-go/)
 * [embedding-in-go-part-1-structs-in-structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/)
-* [simple-go-project-layout-with-modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
-* [faster-xml-stream-processing-in-go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
 * [rest-servers-in-go-part-1-standard-library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 
 <ul>
