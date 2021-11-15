@@ -29,6 +29,7 @@ STARTCOLUMN
 * [go-exposing](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
+* [exercism](https://exercism.org/tracks/go/exercises)
 * [mkcert](https://github.com/FiloSottile/mkcert)
 * [faking-stdin-and-stdout-in-go](https://eli.thegreenplace.net/2020/faking-stdin-and-stdout-in-go/)
 * [embedding-in-go-part-1-structs-in-structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/)
