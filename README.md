@@ -25,8 +25,9 @@ STARTCOLUMN
 
 ## todo
 
-* [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors#write-the-test-first-2)
+* [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
 * [tutorialedge](https://tutorialedge.net/golang/getting-started-with-go/)
+* [cheney](https://dave.cheney.net/category/golang)
 * [go-exposing](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
