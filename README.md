@@ -27,7 +27,6 @@ STARTCOLUMN
 ## todo
 
 * [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
-* [tutorialedge](https://tutorialedge.net/golang/go-closures-tutorial/)
 * [cheney](https://dave.cheney.net/category/golang)
 * [go-exposing](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
