@@ -6,7 +6,6 @@ STARTCOLUMN
 - [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
 - [gitlab](https://gitlab.com/users/franckf/projects)
 - [github](https://github.com/franckf-git)
-- [adventofcode](https://adventofcode.com/)
 - [liveserver](http://127.0.0.1:5500/)
 
 ## tech
@@ -27,7 +26,6 @@ STARTCOLUMN
 ## todo
 
 * [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
-* [cheney](https://dave.cheney.net/category/golang)
 * [go-exposing](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
