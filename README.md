@@ -26,13 +26,10 @@ STARTCOLUMN
 ## todo
 
 * [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
-* [go-exposing](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
 * [exercism](https://exercism.org/tracks/go/exercises)
 * [mkcert](https://github.com/FiloSottile/mkcert)
-* [faking-stdin-and-stdout-in-go](https://eli.thegreenplace.net/2020/faking-stdin-and-stdout-in-go/)
-* [rest-servers-in-go-part-1-standard-library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 
 <ul>
 <li><a href="https://netifly.com/" target="_blank">netifly</a> vs <a href="https://heroku.com/" target="_blank">heroku</a></li>
