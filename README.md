@@ -5,27 +5,10 @@ STARTCOLUMN
 - [info-covid](https://www.gouvernement.fr/info-coronavirus)
 - [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
 - [gitlab](https://gitlab.com/users/franckf/projects)
-- [github](https://github.com/franckf-git)
-- [liveserver](http://127.0.0.1:5500/)
-
-## tech
-
-* [journal-du-hacker](https://www.journalduhacker.net/recent)
-* [mini-machines](https://www.minimachines.net)
-* [tux-machines](http://www.tuxmachines.org)
-* [cert-fr](https://www.cert.ssi.gouv.fr)
-* [flathub](https://flathub.org/apps/collection/recently-updated)
-* [fedora-magazine](https://fedoramagazine.org)
-* [discussion-fedora](https://discussion.fedoraproject.org/)
-* [centos](https://blog.centos.org)
-* [g/technology](https://boards.4channel.org/g/catalog)
-
-ENDCOLUMN
-STARTCOLUMN
 
 ## todo
 
-* [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
+* [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)
 * [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
 * [exercism](https://exercism.org/tracks/go/exercises)
@@ -37,6 +20,9 @@ STARTCOLUMN
 <ul>
 <li><a href="https://matomo.org/" target="_blank">matomo</a> vs <a href="https://plausible.io/" target="_blank">plausible</a></li>
 </ul>
+
+ENDCOLUMN
+STARTCOLUMN
 
 ## data-generator
 
@@ -123,34 +109,13 @@ STARTCOLUMN
 ENDCOLUMN
 STARTCOLUMN
 
-## podcast
-
-* [no-limit-secu](https://www.nolimitsecu.fr)
-* [cpu](https://cpu.dascritch.net/)
-* [frenchspin](https://frenchspin.fr)
-* [artisandeveloppeur](https://artisandeveloppeur.fr/blog/)
-
-## youtube
-
-* [linuxtricks](https://www.youtube.com/channel/UCDKPGD9T00eS_l--D_DRTUQ/videos)
-* [level1techs](https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ/videos)
-* [distrotube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos)
-* [grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ/videos)
-* [traversy](https://www.youtube.com/user/TechGuyWeb/videos)
-
-## twitch
-
-* [grafikat](https://www.twitch.tv/grafikart/videos)
-* [joueur-du-grenier](https://www.twitch.tv/joueur_du_grenier/videos)
-* [ultia](https://www.twitch.tv/ultia/videos)
-* [angledroit](https://www.twitch.tv/angledroit/videos)
-* [bagherajones](https://www.twitch.tv/bagherajones/videos)
-
 ## distraction
 
 * [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
+* [level1tech](https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ/videos)
 * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
 * [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
+* [g/technology](https://boards.4channel.org/g/catalog)
 
 ENDCOLUMN
 
