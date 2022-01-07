@@ -1,10 +1,5 @@
+
 STARTCOLUMN
-
-## top
-
-- [info-covid](https://www.gouvernement.fr/info-coronavirus)
-- [weather](https://www.meteorama.fr/86000.html?v=heure-par-heure)
-- [gitlab](https://gitlab.com/users/franckf/projects)
 
 ## todo
 
@@ -20,9 +15,6 @@ STARTCOLUMN
 <ul>
 <li><a href="https://matomo.org/" target="_blank">matomo</a> vs <a href="https://plausible.io/" target="_blank">plausible</a></li>
 </ul>
-
-ENDCOLUMN
-STARTCOLUMN
 
 ## data-generator
 
@@ -105,9 +97,6 @@ STARTCOLUMN
 * [event-listeners](https://www.w3schools.com/jsref/dom_obj_event.asp)
 * [w3schools](https://www.w3schools.com/)
 * [MDN](https://developer.mozilla.org/fr/docs/Web)
-
-ENDCOLUMN
-STARTCOLUMN
 
 ## distraction
 
