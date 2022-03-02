@@ -100,8 +100,6 @@ STARTCOLUMN
 ## distraction
 
 * [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
-* [level1tech](https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ/videos)
-* [g/technology](https://boards.4channel.org/g/catalog)
 
 ENDCOLUMN
 
