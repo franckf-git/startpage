@@ -2,8 +2,6 @@ STARTCOLUMN
 
 ## todo
 
-* [tdd-go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals#and-the-rest)
-* [building-web-with-go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 * [gophercises](https://gophercises.com/)
 * [exercism](https://exercism.org/tracks/go/exercises)
 * [mkcert](https://github.com/FiloSottile/mkcert)
