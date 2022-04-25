@@ -4,7 +4,6 @@ STARTCOLUMN
 
 * [gophercises](https://gophercises.com/)
 * [exercism](https://exercism.org/tracks/go/exercises)
-* [mkcert](https://github.com/FiloSottile/mkcert)
 
 <ul>
 <li><a href="https://netifly.com/" target="_blank">netifly</a> vs <a href="https://heroku.com/" target="_blank">heroku</a></li>
