@@ -1,5 +1,7 @@
 STARTCOLUMN
 
+* [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
+
 ## todo
 
 * [gophercises](https://gophercises.com/)
@@ -93,10 +95,6 @@ STARTCOLUMN
 * [event-listeners](https://www.w3schools.com/jsref/dom_obj_event.asp)
 * [w3schools](https://www.w3schools.com/)
 * [MDN](https://developer.mozilla.org/fr/docs/Web)
-
-## distraction
-
-* [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
 
 ENDCOLUMN
 
