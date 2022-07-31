@@ -86,13 +86,11 @@ STARTCOLUMN
 * [bootstrap](https://www.w3schools.com/bootstrap4/default.asp)
 * [bulma](https://bulma.io/documentation/)
 * [fontawesome](https://fontawesome.com/icons?d=gallery)
-* [css-minifier](https://cssminifier.com/)
 
 ## ressources-js
 
 * [nodejs](https://nodejs.org/fr/docs/)
 * [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md)
-* [js-minifier](https://javascript-minifier.com/)
 * [js-docs](https://jsdoc.app/index.html#block-tags)
 
 ## ressources-dom
