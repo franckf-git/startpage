@@ -65,6 +65,8 @@ STARTCOLUMN
 * [picker](https://material.io/design/color/#tools-for-picking-colors)
 * [sample](https://material.io/resources/color/#!/?view.left=0&view.right=1)
 
+¯\_(ツ)_/¯
+
 ENDCOLUMN
 STARTCOLUMN
 
@@ -102,4 +104,3 @@ STARTCOLUMN
 
 ENDCOLUMN
 
-¯\_(ツ)_/¯
