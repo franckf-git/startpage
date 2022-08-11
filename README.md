@@ -79,7 +79,6 @@ STARTCOLUMN
 ## ressources-index
 
 * [sys-admin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md)
-* [1loc](https://1loc.dev/)
 * [devtools](https://devtools.best/)
 * [design-ressources](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)
 
@@ -93,7 +92,7 @@ STARTCOLUMN
 
 * [nodejs](https://nodejs.org/fr/docs/)
 * [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md)
-* [js-docs](https://jsdoc.app/index.html#block-tags)
+* [1loc](https://1loc.dev/)
 
 ## ressources-dom
 
