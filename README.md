@@ -2,16 +2,12 @@ STARTCOLUMN
 
 * [music](https://icecast.radiofrance.fr/fiprock-midfi.mp3)
 
-## todo
+## current
 
-* [gophercises](https://gophercises.com/)
+* [kubernetes](https://kubernetes.io/fr/)
+* [terraform](https://www.terraform.io/)
+* [elasticsearch](https://www.elastic.co/fr/elasticsearch/)
 * [exercism](https://exercism.org/tracks/go/exercises)
-* [speech](https://alphacephei.com/vosk/install)
-
-<ul>
-<li><a href="https://netifly.com/" target="_blank">netifly</a> vs <a href="https://heroku.com/" target="_blank">heroku</a></li>
-</ul>
-
 
 ## data-generator
 
