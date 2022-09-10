@@ -4,8 +4,8 @@ STARTCOLUMN
 
 ## current
 
+* [terraform](https://learn.hashicorp.com/collections/terraform/cli)
 * [kubernetes](https://kubernetes.io/fr/)
-* [terraform](https://www.terraform.io/)
 * [elasticsearch](https://www.elastic.co/fr/elasticsearch/)
 * [exercism](https://exercism.org/tracks/go/exercises)
 
