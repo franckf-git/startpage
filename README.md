@@ -4,7 +4,7 @@ STARTCOLUMN
 
 ## current
 
-* [terraform](https://learn.hashicorp.com/collections/terraform/cli)
+* [terraform](https://learn.hashicorp.com/tutorials/terraform/variables?in=terraform/cli)
 * [kubernetes](https://kubernetes.io/fr/)
 * [elasticsearch](https://www.elastic.co/fr/elasticsearch/)
 * [exercism](https://exercism.org/tracks/go/exercises)
